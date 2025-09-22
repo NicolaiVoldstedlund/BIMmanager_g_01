@@ -1,6 +1,6 @@
 # BIMmanager group 01
 # Focus Area: ARCHITECTURE
-# Checking if some of the claims made on page 3 coinncides with the ifc model. 
+# Checking if some of the claims made on page 3 coincides with the ifc model. 
 
 # Script explanation:
 
