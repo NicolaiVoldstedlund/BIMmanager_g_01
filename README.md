@@ -1,1 +1,19 @@
-# BIMmanager group xy
+# BIMmanager group 01
+# Focus Area: ARCHITECTURE
+# Checking if some of the claims made on page 3 coinncides with the ifc model. 
+
+# Script explanation:
+
+# This script analyzes and verifies specific claims about a building model described in an IFC file (25-16-D-ARCH.ifc).
+# It provides a simple menu where you can choose which claim to check. The script includes three main functions:
+
+# count_workspaces:
+# Counts all spaces (IfcSpace) in the building and prints their names, long names, and which building storey (level) they are on.
+
+# count_building_storeys:
+# Counts all building storeys (IfcBuildingStorey), prints their names and elevations, checks if the building has exactly 6 storeys, and reports how   many are above or below ground (based on elevation).
+
+# check_material_environmental_data:
+# Searches all materials (IfcMaterial) for environmental data properties (like CO₂, GWP, EPD, etc.) and prints them if found.
+
+# When you run the script, you are prompted to select which claim to check, and only the relevant function is executed. This makes it easy to verify specific aspects of the building model as described in a report.
