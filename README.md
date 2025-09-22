@@ -1,14 +1,15 @@
 # BIMmanager group 01
+
+# Link to repository: https://github.com/NicolaiVoldstedlund/AdvancedBIM_ARCH_GR01_Manager
+
 # Focus Area: ARCHITECTURE
+
 # Checking if some of the claims made on page 3 coincides with the ifc model. 
 
 # Script explanation:
 
 # This script analyzes and verifies specific claims about a building model described in an IFC file (25-16-D-ARCH.ifc).
-# It provides a simple menu where you can choose which claim to check. The script includes three main functions:
-
-# count_workspaces:
-# Counts all spaces (IfcSpace) in the building and prints their names, long names, and which building storey (level) they are on.
+# It provides a simple menu where you can choose which claim to check. The script includes two main functions:
 
 # count_building_storeys:
 # Counts all building storeys (IfcBuildingStorey), prints their names and elevations, checks if the building has exactly 6 storeys, and reports how   many are above or below ground (based on elevation).
