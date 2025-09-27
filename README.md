@@ -6,8 +6,6 @@ https://github.com/NicolaiVoldstedlund/BIMmanager_g_01
 # Focus Area: 
 ARCHITECTURE
 
----
-
 # Claims:
 
 Checking various claims made on page 3 in the report: 25-16-D-ARCH.pdf 
@@ -66,6 +64,7 @@ Prints the count of classified and unclassified elements.
 
 Purpose:
 To verify that elements in the BIM model are properly classified according to a system.
+
 Link to repository: https://github.com/aalisa0/openBIM2025_GRP2
 
 ## Script 3 - Storey Rule:  
