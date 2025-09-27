@@ -9,3 +9,11 @@
 	path = external/openBIM2025
 	url = https://github.com/aalisa0/openBIM2025
 	branch = main
+[submodule "external/openBIM2025_GRP2"]
+	path = external/openBIM2025_GRP2
+	url = https://github.com/aalisa0/openBIM2025_GRP2
+	branch = main
+[submodule "external/BIMANALYST_G_4"]
+	path = external/BIMANALYST_G_4
+	url = https://github.com/LisannePut/BIMANALYST_G_4
+	branch = main
