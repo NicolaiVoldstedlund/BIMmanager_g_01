@@ -8,8 +8,8 @@ model = ifcopenshell.open(
 )
 
 rules = {
-    "1": ("Facade Transparency", FacadeTransparency.checkRule),
-    "2": ("Alisa Rule", alisaRule.checkRule)
+    "1": ("Facade Transparency Rule", FacadeTransparency.checkRule),
+    "2": ("Classification Rule", alisaRule.checkRule)
 }
 
 print("Vælg hvilken rule du vil køre:")
