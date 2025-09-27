@@ -1,21 +1,21 @@
 # BIMmanager group 01
 
-# Link to repository: 
+# Link to repository 
 https://github.com/NicolaiVoldstedlund/BIMmanager_g_01
 
-# Focus Area: 
-ARCHITECTURE
+# Focus Area 
+Architecture
 
-# Claims:
+# Claims
 
 Checking various claims made on page 3 in the report: 25-16-D-ARCH.pdf 
     Claim 1: Facade transparency is 57%
     Claim 2: Elements have a classification system
     Claim 3: Amount of levels is 6
 
-# Summary of scrips:
+# Summary of scrips
 
-## Managers main script: 
+## Managers main script
 
 This script is a simple command-line tool for running BIM model checks using different rule modules.
 It loads an IFC model and presents a menu, allowing the user to select which rule to run.
@@ -32,7 +32,7 @@ To make it easy to run and compare different BIM analysis rules on the same mode
 
 Link to repository: https://github.com/NicolaiVoldstedlund/BIMmanager_g_01 
 
-## Script 1 - Facade Transparency:
+## Script 1 - Facade Transparency
 
 This script analyzes the transparency of the building facade in the IFC model.
 It calculates the total facade surface area and the total window area, then computes the average transparency percentage.
@@ -67,7 +67,7 @@ To verify that elements in the BIM model are properly classified according to a 
 
 Link to repository: https://github.com/aalisa0/openBIM2025_GRP2
 
-## Script 3 - Storey Rule:  
+## Script 3 - Storey Rule  
 
 This script analyzes the number of building storeys in the IFC model.
 It counts total storeys, distinguishes between above and below ground levels, and checks if the number matches a specific claim.
