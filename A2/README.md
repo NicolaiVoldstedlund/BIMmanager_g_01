@@ -13,6 +13,8 @@ As a manager, my focus area is to combine architectural information gathered fro
 
 ## A2b
 
+Building to focus on: Building #2516
+
 ## A2c
 
 ## A2d
