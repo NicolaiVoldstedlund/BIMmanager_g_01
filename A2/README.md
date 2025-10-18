@@ -61,6 +61,16 @@ A new script is needed in the step where integrated data from the desk and fire 
 
 ## A2e
 
+### 1 Tool Idea
+The tool is a custom Python script using IfcOpenShell that automatically checks evacuation route accessibility and desk arrangements in IFC models against regulatory requirements from BR18. It integrates data from analyst scripts and validates whether layouts comply with fire safety rules, producing a clear compliance report for stakeholders.
+
+### 2 Business and Societal Value
+The business value lies in saving time and reducing manual errors, as building managers and consultants get fast, reliable feedback for design corrections. The societal value is increased safety and regulatory compliance in workplaces, as the tool ensures that evacuation routes remain unobstructed in real layouts. By using open standards, the solution is accessible for a wide range of projects, lowering barriers for safer building design.
+
+### 3 BPMN Diagram
+
+![Diagram caption](IMG/GR01_A2.svg)
+
 ---
 
 ## A2f
