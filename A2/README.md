@@ -54,7 +54,10 @@ The BIM purposes required for this claim are primarily gather, analyze, and comm
 ### 5. Review of use case examples
 
 
-### 6. BMMN-diagram
+
+### 6. BPMN-diagram
+
+Check the IMG folder
 
 ---
 
@@ -71,3 +74,5 @@ The BIM purposes required for this claim are primarily gather, analyze, and comm
 ---
 
 ## A2g
+
+The software license for this project is: GPL-3.0
