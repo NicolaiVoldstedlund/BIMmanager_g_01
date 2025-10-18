@@ -5,21 +5,35 @@
     <bpmn:participant id="Participant_0c5b6zw" name="REF. INFORMATION" processRef="Process_0s6wwmv" />
     <bpmn:participant id="Participant_0p3oheo" name="INFO. EXCHANGE" processRef="Process_16iuubf" />
     <bpmn:textAnnotation id="TextAnnotation_0an665d">
-      <bpmn:text>Amounts of desks</bpmn:text>
+      <bpmn:text>Amounts of desks:
+- IfcBuildingElement</bpmn:text>
     </bpmn:textAnnotation>
     <bpmn:textAnnotation id="TextAnnotation_1t5llm1">
-      <bpmn:text>Location of desks</bpmn:text>
+      <bpmn:text>Location of desks:
+- IfcBuildingStorey
+- IfcSpaces</bpmn:text>
     </bpmn:textAnnotation>
     <bpmn:textAnnotation id="TextAnnotation_0leqwfo">
-      <bpmn:text>Location of corridors</bpmn:text>
+      <bpmn:text>Location of corridors:
+- IfcBuildingStorey
+- IfcSpaces</bpmn:text>
     </bpmn:textAnnotation>
     <bpmn:textAnnotation id="TextAnnotation_11wsffq">
-      <bpmn:text>Fire route elements</bpmn:text>
+      <bpmn:text>Fire route elements:
+- IfcDoors
+- IfcWalls
+- IfcStairs
+- IfcSpaces.</bpmn:text>
     </bpmn:textAnnotation>
     <bpmn:association id="Association_0cbsj58" associationDirection="None" sourceRef="Association_1blplnr" targetRef="TextAnnotation_11wsffq" />
     <bpmn:association id="Association_0skhnhz" associationDirection="None" sourceRef="Task_Integrate" targetRef="TextAnnotation_0an665d" />
     <bpmn:association id="Association_0y5vnm0" associationDirection="None" sourceRef="Task_Integrate" targetRef="TextAnnotation_1t5llm1" />
     <bpmn:association id="Association_1blplnr" associationDirection="None" sourceRef="Task_Integrate" targetRef="TextAnnotation_0leqwfo" />
+    <bpmn:association id="Association_1wbey8t" associationDirection="None" sourceRef="TextAnnotation_11wsffq" targetRef="Association_1blplnr" />
+    <bpmn:textAnnotation id="TextAnnotation_15y2932">
+      <bpmn:text>New script needed</bpmn:text>
+    </bpmn:textAnnotation>
+    <bpmn:association id="Association_0avxc8w" associationDirection="None" sourceRef="Task_Analyze" targetRef="TextAnnotation_15y2932" />
   </bpmn:collaboration>
   <bpmn:process id="Process_1" isExecutable="false">
     <bpmn:startEvent id="StartEvent_1" name="Start process">
@@ -129,12 +143,12 @@
     <bpmn:dataObject id="DataObject_0e2j89n" />
   </bpmn:process>
   <bpmn:process id="Process_16iuubf">
-    <bpmn:dataObjectReference id="DataObjectReference_1i33w88" name="ARCH IFC model" dataObjectRef="DataObject_0dgl4op" />
-    <bpmn:dataObject id="DataObject_0dgl4op" />
     <bpmn:dataObjectReference id="DataObjectReference_06j0q9g" name="GR02 Analyst Python script" dataObjectRef="DataObject_03ir75x" />
     <bpmn:dataObject id="DataObject_03ir75x" />
     <bpmn:dataObjectReference id="DataObjectReference_0y1bfsa" name="GR04 Analyst Python script" dataObjectRef="DataObject_0btjuno" />
     <bpmn:dataObject id="DataObject_0btjuno" />
+    <bpmn:dataObjectReference id="DataObjectReference_1i33w88" name="ARCH IFC model" dataObjectRef="DataObject_0dgl4op" />
+    <bpmn:dataObject id="DataObject_0dgl4op" />
   </bpmn:process>
   <bpmndi:BPMNDiagram id="BPMNDiagram_1">
     <bpmndi:BPMNPlane id="BPMNPlane_1" bpmnElement="Collaboration_0byjpcy">
@@ -147,10 +161,6 @@
         <bpmndi:BPMNLabel>
           <dc:Bounds x="197" y="505" width="66" height="14" />
         </bpmndi:BPMNLabel>
-      </bpmndi:BPMNShape>
-      <bpmndi:BPMNShape id="Task_Indlaes_di" bpmnElement="Task_Indlaes">
-        <dc:Bounds x="290" y="450" width="120" height="60" />
-        <bpmndi:BPMNLabel />
       </bpmndi:BPMNShape>
       <bpmndi:BPMNShape id="Gateway_0xp574m_di" bpmnElement="Gateway_ParallelJoin" isMarkerVisible="true">
         <dc:Bounds x="815" y="455" width="50" height="50" />
@@ -172,15 +182,19 @@
         <dc:Bounds x="925" y="450" width="150" height="60" />
         <bpmndi:BPMNLabel />
       </bpmndi:BPMNShape>
-      <bpmndi:BPMNShape id="Task_Analyze_di" bpmnElement="Task_Analyze">
+      <bpmndi:BPMNShape id="Task_Analyze_di" bpmnElement="Task_Analyze" bioc:stroke="#205022" bioc:fill="#c8e6c9" color:background-color="#c8e6c9" color:border-color="#205022">
         <dc:Bounds x="1135" y="450" width="150" height="60" />
         <bpmndi:BPMNLabel />
       </bpmndi:BPMNShape>
-      <bpmndi:BPMNShape id="Task_Desk_di" bpmnElement="Task_Desk">
+      <bpmndi:BPMNShape id="Task_Indlaes_di" bpmnElement="Task_Indlaes">
+        <dc:Bounds x="290" y="450" width="120" height="60" />
+        <bpmndi:BPMNLabel />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Task_Desk_di" bpmnElement="Task_Desk" bioc:stroke="#0d4372" bioc:fill="#bbdefb" color:background-color="#bbdefb" color:border-color="#0d4372">
         <dc:Bounds x="540" y="390" width="140" height="60" />
         <bpmndi:BPMNLabel />
       </bpmndi:BPMNShape>
-      <bpmndi:BPMNShape id="Task_EvacReq_di" bpmnElement="Task_EvacReq">
+      <bpmndi:BPMNShape id="Task_EvacReq_di" bpmnElement="Task_EvacReq" bioc:stroke="#0d4372" bioc:fill="#bbdefb" color:background-color="#bbdefb" color:border-color="#0d4372">
         <dc:Bounds x="540" y="510" width="140" height="60" />
         <bpmndi:BPMNLabel />
       </bpmndi:BPMNShape>
@@ -299,42 +313,77 @@
         <di:waypoint x="610" y="620" />
         <di:waypoint x="610" y="570" />
       </bpmndi:BPMNEdge>
-      <bpmndi:BPMNShape id="Participant_0p3oheo_di" bpmnElement="Participant_0p3oheo" isHorizontal="true">
-        <dc:Bounds x="158" y="720" width="1782" height="170" />
-        <bpmndi:BPMNLabel />
-      </bpmndi:BPMNShape>
-      <bpmndi:BPMNShape id="DataObjectReference_1i33w88_di" bpmnElement="DataObjectReference_1i33w88" bioc:stroke="#6b3c00" bioc:fill="#ffe0b2" color:background-color="#ffe0b2" color:border-color="#6b3c00">
-        <dc:Bounds x="332" y="765" width="36" height="50" />
-        <bpmndi:BPMNLabel>
-          <dc:Bounds x="309" y="822" width="85" height="14" />
-        </bpmndi:BPMNLabel>
-      </bpmndi:BPMNShape>
-      <bpmndi:BPMNShape id="DataObjectReference_06j0q9g_di" bpmnElement="DataObjectReference_06j0q9g" bioc:stroke="#0d4372" bioc:fill="#bbdefb" color:background-color="#bbdefb" color:border-color="#0d4372">
-        <dc:Bounds x="506" y="765" width="36" height="50" />
-        <bpmndi:BPMNLabel color:color="#0d4372">
-          <dc:Bounds x="490" y="822" width="68" height="27" />
-        </bpmndi:BPMNLabel>
-      </bpmndi:BPMNShape>
-      <bpmndi:BPMNShape id="DataObjectReference_0y1bfsa_di" bpmnElement="DataObjectReference_0y1bfsa" bioc:stroke="#0d4372" bioc:fill="#bbdefb" color:background-color="#bbdefb" color:border-color="#0d4372">
-        <dc:Bounds x="420" y="765" width="36" height="50" />
-        <bpmndi:BPMNLabel>
-          <dc:Bounds x="404" y="822" width="68" height="27" />
-        </bpmndi:BPMNLabel>
-      </bpmndi:BPMNShape>
       <bpmndi:BPMNShape id="Participant_0c5b6zw_di" bpmnElement="Participant_0c5b6zw" isHorizontal="true">
         <dc:Bounds x="158" y="80" width="1782" height="160" />
         <bpmndi:BPMNLabel />
       </bpmndi:BPMNShape>
       <bpmndi:BPMNShape id="DataObjectReference_1dcok42_di" bpmnElement="DataObjectReference_1dcok42" bioc:stroke="#831311" bioc:fill="#ffcdd2" color:background-color="#ffcdd2" color:border-color="#831311">
-        <dc:Bounds x="1402" y="145" width="36" height="50" />
+        <dc:Bounds x="1402" y="135" width="36" height="50" />
         <bpmndi:BPMNLabel>
-          <dc:Bounds x="1406" y="121" width="28" height="14" />
+          <dc:Bounds x="1406" y="111" width="28" height="14" />
         </bpmndi:BPMNLabel>
       </bpmndi:BPMNShape>
-      <bpmndi:BPMNEdge id="Association_0cbsj58_di" bpmnElement="Association_0cbsj58">
-        <di:waypoint x="1040" y="510" />
-        <di:waypoint x="1040" y="587" />
-        <di:waypoint x="1012" y="587" />
+      <bpmndi:BPMNShape id="Participant_0p3oheo_di" bpmnElement="Participant_0p3oheo" isHorizontal="true">
+        <dc:Bounds x="158" y="720" width="1782" height="170" />
+        <bpmndi:BPMNLabel />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="DataObjectReference_06j0q9g_di" bpmnElement="DataObjectReference_06j0q9g" bioc:stroke="#0d4372" bioc:fill="#bbdefb" color:background-color="#bbdefb" color:border-color="#0d4372">
+        <dc:Bounds x="506" y="770" width="36" height="50" />
+        <bpmndi:BPMNLabel color:color="#0d4372">
+          <dc:Bounds x="490" y="827" width="68" height="27" />
+        </bpmndi:BPMNLabel>
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="DataObjectReference_0y1bfsa_di" bpmnElement="DataObjectReference_0y1bfsa" bioc:stroke="#0d4372" bioc:fill="#bbdefb" color:background-color="#bbdefb" color:border-color="#0d4372">
+        <dc:Bounds x="420" y="770" width="36" height="50" />
+        <bpmndi:BPMNLabel>
+          <dc:Bounds x="404" y="827" width="68" height="27" />
+        </bpmndi:BPMNLabel>
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="DataObjectReference_1i33w88_di" bpmnElement="DataObjectReference_1i33w88" bioc:stroke="#6b3c00" bioc:fill="#ffe0b2" color:background-color="#ffe0b2" color:border-color="#6b3c00">
+        <dc:Bounds x="332" y="770" width="36" height="50" />
+        <bpmndi:BPMNLabel>
+          <dc:Bounds x="309" y="827" width="85" height="14" />
+        </bpmndi:BPMNLabel>
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNEdge id="Association_0avxc8w_di" bpmnElement="Association_0avxc8w">
+        <di:waypoint x="1210" y="450" />
+        <di:waypoint x="1210" y="400" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNShape id="TextAnnotation_0an665d_di" bpmnElement="TextAnnotation_0an665d">
+        <dc:Bounds x="892" y="400" width="126.99105575499748" height="40.48582738549442" />
+        <bpmndi:BPMNLabel />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="TextAnnotation_1t5llm1_di" bpmnElement="TextAnnotation_1t5llm1">
+        <dc:Bounds x="892" y="327" width="127" height="55" />
+        <bpmndi:BPMNLabel />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="TextAnnotation_0leqwfo_di" bpmnElement="TextAnnotation_0leqwfo">
+        <dc:Bounds x="892" y="530" width="126.99105575499748" height="55.322963699155494" />
+        <bpmndi:BPMNLabel />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="TextAnnotation_11wsffq_di" bpmnElement="TextAnnotation_11wsffq">
+        <dc:Bounds x="891" y="601" width="127" height="84" />
+        <bpmndi:BPMNLabel />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNEdge id="DataInputAssociation_19xk18m_di" bpmnElement="DataInputAssociation_19xk18m">
+        <di:waypoint x="1420" y="185" />
+        <di:waypoint x="1420" y="450" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="DataInputAssociation_0a4x702_di" bpmnElement="DataInputAssociation_0a4x702">
+        <di:waypoint x="350" y="770" />
+        <di:waypoint x="350" y="510" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="DataInputAssociation_0kqom4u_di" bpmnElement="DataInputAssociation_0kqom4u">
+        <di:waypoint x="524" y="770" />
+        <di:waypoint x="524" y="480" />
+        <di:waypoint x="610" y="480" />
+        <di:waypoint x="610" y="450" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="DataInputAssociation_19hnpbn_di" bpmnElement="DataInputAssociation_19hnpbn">
+        <di:waypoint x="438" y="770" />
+        <di:waypoint x="438" y="600" />
+        <di:waypoint x="580" y="600" />
+        <di:waypoint x="580" y="570" />
       </bpmndi:BPMNEdge>
       <bpmndi:BPMNEdge id="Association_0skhnhz_di" bpmnElement="Association_0skhnhz">
         <di:waypoint x="1040" y="450" />
@@ -343,48 +392,21 @@
       </bpmndi:BPMNEdge>
       <bpmndi:BPMNEdge id="Association_0y5vnm0_di" bpmnElement="Association_0y5vnm0">
         <di:waypoint x="1040" y="450" />
-        <di:waypoint x="1040" y="375" />
-        <di:waypoint x="1003" y="375" />
+        <di:waypoint x="1040" y="355" />
+        <di:waypoint x="1020" y="355" />
       </bpmndi:BPMNEdge>
       <bpmndi:BPMNEdge id="Association_1blplnr_di" bpmnElement="Association_1blplnr">
         <di:waypoint x="1040" y="510" />
         <di:waypoint x="1040" y="545" />
         <di:waypoint x="1019" y="545" />
       </bpmndi:BPMNEdge>
-      <bpmndi:BPMNEdge id="DataInputAssociation_0a4x702_di" bpmnElement="DataInputAssociation_0a4x702">
-        <di:waypoint x="350" y="765" />
-        <di:waypoint x="350" y="510" />
+      <bpmndi:BPMNEdge id="Association_1wbey8t_di" bpmnElement="Association_1wbey8t">
+        <di:waypoint x="1019" y="643" />
+        <di:waypoint x="1040" y="643" />
+        <di:waypoint x="1040" y="510" />
       </bpmndi:BPMNEdge>
-      <bpmndi:BPMNEdge id="DataInputAssociation_19hnpbn_di" bpmnElement="DataInputAssociation_19hnpbn">
-        <di:waypoint x="438" y="765" />
-        <di:waypoint x="438" y="600" />
-        <di:waypoint x="580" y="600" />
-        <di:waypoint x="580" y="570" />
-      </bpmndi:BPMNEdge>
-      <bpmndi:BPMNEdge id="DataInputAssociation_0kqom4u_di" bpmnElement="DataInputAssociation_0kqom4u">
-        <di:waypoint x="524" y="765" />
-        <di:waypoint x="524" y="480" />
-        <di:waypoint x="610" y="480" />
-        <di:waypoint x="610" y="450" />
-      </bpmndi:BPMNEdge>
-      <bpmndi:BPMNEdge id="DataInputAssociation_19xk18m_di" bpmnElement="DataInputAssociation_19xk18m">
-        <di:waypoint x="1420" y="195" />
-        <di:waypoint x="1420" y="450" />
-      </bpmndi:BPMNEdge>
-      <bpmndi:BPMNShape id="TextAnnotation_0an665d_di" bpmnElement="TextAnnotation_0an665d">
-        <dc:Bounds x="892" y="400" width="126.98211875843455" height="26.990553306342782" />
-        <bpmndi:BPMNLabel />
-      </bpmndi:BPMNShape>
-      <bpmndi:BPMNShape id="TextAnnotation_1t5llm1_di" bpmnElement="TextAnnotation_1t5llm1">
-        <dc:Bounds x="892" y="360" width="110.78778677462888" height="26.990553306342782" />
-        <bpmndi:BPMNLabel />
-      </bpmndi:BPMNShape>
-      <bpmndi:BPMNShape id="TextAnnotation_0leqwfo_di" bpmnElement="TextAnnotation_0leqwfo">
-        <dc:Bounds x="892" y="530" width="126.99618320233427" height="26.990553306342782" />
-        <bpmndi:BPMNLabel />
-      </bpmndi:BPMNShape>
-      <bpmndi:BPMNShape id="TextAnnotation_11wsffq_di" bpmnElement="TextAnnotation_11wsffq">
-        <dc:Bounds x="892" y="572" width="119.99550843850162" height="26.990553306342782" />
+      <bpmndi:BPMNShape id="TextAnnotation_15y2932_di" bpmnElement="TextAnnotation_15y2932">
+        <dc:Bounds x="1150" y="370" width="120" height="30" />
         <bpmndi:BPMNLabel />
       </bpmndi:BPMNShape>
     </bpmndi:BPMNPlane>

@@ -11,7 +11,7 @@ Nicolai, s225332 / Python Confidence score: 2 - Neutral
 Total score of group: 2 - Neutral
 
 ### 2. Focus Area
-Architecture
+Architecture / Fire evacuation analysis
 
 ---
 
@@ -47,14 +47,15 @@ The BIM purposes required for this claim are primarily gather, analyze, and comm
 
 ### 5. Review of use case examples
 
-
+No use case examples match my focus area exactly, but their structure helped clarify how to organize and link the steps in my BPMN diagram. I built on these examples to ensure a clear workflow, even though my use case is distinct.
 
 ### 6. BPMN-diagram
-Check the IMG folder: https://github.com/NicolaiVoldstedlund/BIMmanager_g_01/tree/main/A2/IMG
+Check the link to the .svg file: https://github.com/NicolaiVoldstedlund/BIMmanager_g_01/blob/main/A2/IMG/GR01_A2.svg
 
 ---
 
 ## A2d
+A new script is needed in the step where integrated data from the desk and fire route scripts is analyzed against the IFC model to check evacuation accessibility and compliance with BR18. This is highlighted in the BPMN diagram at "Analyze accessibility to fire route in IFC model" as the specific point for the new Python/IfcOpenShell tool/script.
 
 ---
 
