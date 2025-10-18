@@ -50,7 +50,7 @@ The BIM purposes required for this claim are primarily gather, analyze, and comm
 No use case examples match my focus area exactly, but their structure helped clarify how to organize and link the steps in my BPMN diagram. I built on these examples to ensure a clear workflow, even though my use case is distinct.
 
 ### 6. BPMN-diagram
-Check the link to the .svg file: https://github.com/NicolaiVoldstedlund/BIMmanager_g_01/blob/main/A2/IMG/GR01_A2.svg
+Check the link to the IMG folder where both the .bpmn and .svg file is located: https://github.com/NicolaiVoldstedlund/BIMmanager_g_01/tree/main/A2/IMG
 
 ---
 
@@ -74,6 +74,25 @@ The business value lies in saving time and reducing manual errors, as building m
 ---
 
 ## A2f
+
+### 1 Information to extract from the model:
+- Desk locations and quantities
+- Evacuation route elements and their spatial relationships (corridors, doors, stairs, spaces, walls)
+
+### 2 Where is this in IFC?
+Desk locations: IfcBuildingStorey, IfcSpace, IfcFurniture, IfcBuildingElement
+Evacuation routes: IfcBuildingStorey, IfcSpace, IfcDoor, IfcWall, IfcStair
+
+### 3 Is it in the model?
+Yes, these classes and elements are included in standard architectural IFC models, assuming proper modeling practice was followed.
+
+### 4 Do you know how to get it in ifcOpenShell?
+Yes, by querying entities with by_type() and accessing attributes such as location, geometry, and relationships.
+
+### 5 What will I need to learn to do this?
+- Advanced spatial querying with IfcOpenShell
+- How to interpret relationships between furnishings, spaces, and evacuation elements
+- How to validate compliance against BR18 rules programmatically
 
 ---
 
