@@ -5,14 +5,12 @@
 ## A2a
 
 ### 1. Python confidence
-
 Group members: 
 Nicolai, s225332 / Python Confidence score: 2 - Neutral
 
 Total score of group: 2 - Neutral
 
 ### 2. Focus Area
-
 Architecture
 
 ---
@@ -20,19 +18,15 @@ Architecture
 ## A2b
 
 ### 1. Building to focus on
-
 Building #2516
 
 ### 2. Claim to check
-
 Access to evacuation routes 
 
 ### 3. Short description of the claim
-
 As manager, I integrate and analyze the results and claims from both analyst groups to evaluate how well the arrangement of desks ensures safe and compliant access to evacuation routes.
 
 ### 4. How it is justified
-
 The claim is justified by BR18, which requires that evacuation routes must be accessible, unobstructed, and dimensioned according to the number of occupants in the building. The placement of desks must not block or extend the access paths to evacuation routes beyond the permitted distances and capacities. This ensures that all occupants at their desks have quick and safe access to escape routes in case of fire or emergency.
 
 ---
@@ -56,8 +50,7 @@ The BIM purposes required for this claim are primarily gather, analyze, and comm
 
 
 ### 6. BPMN-diagram
-
-Check the IMG folder
+Check the IMG folder: https://github.com/NicolaiVoldstedlund/BIMmanager_g_01/tree/main/A2/IMG
 
 ---
 
