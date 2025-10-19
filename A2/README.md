@@ -80,8 +80,8 @@ The business value lies in saving time and reducing manual errors, as building m
 - Evacuation route elements and their spatial relationships (corridors, doors, stairs, spaces, walls)
 
 ### 2 Where is this in IFC?
-Desk locations: IfcBuildingStorey, IfcSpace, IfcFurniture, IfcBuildingElement
-Evacuation routes: IfcBuildingStorey, IfcSpace, IfcDoor, IfcWall, IfcStair
+- Desk locations: IfcBuildingStorey, IfcSpace, IfcFurniture, IfcBuildingElement
+- Evacuation routes: IfcBuildingStorey, IfcSpace, IfcDoor, IfcWall, IfcStair
 
 ### 3 Is it in the model?
 Yes, these classes and elements are included in standard architectural IFC models, assuming proper modeling practice was followed.
