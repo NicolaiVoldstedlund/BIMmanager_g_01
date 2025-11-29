@@ -69,6 +69,8 @@ For the tool to function effectively, the following information must be present 
 - Evacuation route elements (corridors, doors, stairs, spaces, walls)
 - Spatial relationships between desks and evacuation routes
 
+---
+
 ## IDS — Information Delivery Specification for the tool
 
 PURPOSE
