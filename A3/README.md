@@ -22,13 +22,7 @@ Recommended quick setup (Windows, PowerShell)
    cd "c:\Users\nicol\OneDrive - Danmarks Tekniske Universitet\DTU\7. Semester\41934 Advanced Building Information Modeling\GitHub\BIMmanager_g_01"
    ```
 
-2. Create and activate a virtual environment:
-   ```
-   python -m venv .venv
-   .\.venv\Scripts\Activate
-   ```
-
-3. Install matplotlib if you want the PNG chart output:
+2. Install matplotlib if you want the PNG chart output:
    ```
    pip install matplotlib
    ```
@@ -54,11 +48,6 @@ Configuration
 - Per-space requirement (BR18): DOOR_CM_PER_DESK (default 1.0 cm/desk)
 - Building-level requirement (BR18): BR18_CM_PER_OCCUPANT (default 1.0 cm/person)
 - Edit these constants in `A3/main.py` to change the rules.
-
-Notes
-- If matplotlib is not available, the script still creates the text and JSON reports and adds a warning indicating chart generation was skipped.
-- The generated JSON includes totals, per-space details and the chart path (or null when the chart is not created).
-```// filepath: c:\Users\nicol\OneDrive - Danmarks Tekniske Universitet\DTU\7. Semester\41934 Advanced Building Information Modeling\GitHub\BIMmanager_g_01\A3\README.md
 
 ## Running the A3 Manager script
 
