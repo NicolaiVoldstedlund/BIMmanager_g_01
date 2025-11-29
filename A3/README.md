@@ -69,7 +69,7 @@ For the tool to function effectively, the following information must be present 
 - Evacuation route elements (corridors, doors, stairs, spaces, walls)
 - Spatial relationships between desks and evacuation routes
 
-## IDS — Information Delivery Specification for the tool (Accessibility to fire route)
+## IDS — Information Delivery Specification for the tool
 
 PURPOSE
 - Define the exact model content, properties and units required so the A3 script can run reliably and produce valid textual analyst outputs.
