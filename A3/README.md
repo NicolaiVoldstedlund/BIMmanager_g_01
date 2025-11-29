@@ -5,7 +5,7 @@
 ## About the Tool
 
 ### Problem / Claim
-The tool addresses the problem of ensuring safe and compliant access to evacuation routes in building designs. Specifically, it checks whether the arrangement of desks obstructs evacuation routes, which is critical for occupant safety during emergencies. This problem is derived from the BR18 regulations, which mandate that evacuation routes must be accessible, unobstructed, and appropriately dimensioned based on the number of occupants in the building.
+The tool evaluates whether occupants have good accessibility to the fire route — i.e., whether desk locations, door provision and circulation allow safe and compliant evacuation in accordance with BR18.
 
 ### Description of the Tool
 The tool is a custom Python script utilizing IfcOpenShell to automatically analyze evacuation route accessibility and desk arrangements within IFC models. It integrates data from various analyst scripts to validate compliance with fire safety regulations, producing a clear compliance report for stakeholders.
