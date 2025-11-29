@@ -1,0 +1,1410 @@
+All-spaces accessibility to fire route
+Generated: 20251129_083020
+
+Source: C:\Users\nicol\OneDrive - Danmarks Tekniske Universitet\DTU\7. Semester\41934 Advanced Building Information Modeling\GitHub\BIMmanager_g_01\A3\Analyst script results\A3_analyst_checks_GRP2.txt
+Reference analysis: C:\Users\nicol\OneDrive - Danmarks Tekniske Universitet\DTU\7. Semester\41934 Advanced Building Information Modeling\GitHub\BIMmanager_g_01\A3\Analyst script results\analysis_summary_20251127_135907.txt
+
+=== Summary ===
+Spaces scanned: 139
+Spaces with desks: 52
+Total desks (sum): 321
+Total occupants (based on desks): 321
+BR18 minimum total door width required (1.0 cm per occupant): 321.0 cm
+PASS: 42  FAIL: 10  UNKNOWN: 0
+
+=== Per-space details ===
+
+---
+Space: 1158149  (Office:1158149)
+ Floor: Level 3, Area: 35.3, Height: 2.8
+ Desks: 6 | Doors reported: 1 | Total door width (cm): 88.8
+ Desk-to-door ratio (cm): 14.8
+ Verdict: PASS
+  - Reported number of doors: 1
+  - Total door width 88.8 cm >= required 6.0 cm (BR18)
+ Statement: Occupants HAVE access to the fire route (desk/door data PASS BR18).
+
+---
+Space: 1158167  (Office:1158167)
+ Floor: Level 3, Area: 26.94, Height: 2.8
+ Desks: 4 | Doors reported: 1 | Total door width (cm): 88.8
+ Desk-to-door ratio (cm): 22.2
+ Verdict: PASS
+  - Reported number of doors: 1
+  - Total door width 88.8 cm >= required 4.0 cm (BR18)
+ Statement: Occupants HAVE access to the fire route (desk/door data PASS BR18).
+
+---
+Space: 1158170  (Office:1158170)
+ Floor: Level 3, Area: 26.94, Height: 2.8
+ Desks: 4 | Doors reported: 1 | Total door width (cm): 88.8
+ Desk-to-door ratio (cm): 22.2
+ Verdict: PASS
+  - Reported number of doors: 1
+  - Total door width 88.8 cm >= required 4.0 cm (BR18)
+ Statement: Occupants HAVE access to the fire route (desk/door data PASS BR18).
+
+---
+Space: 1216965  (Office:1216965)
+ Floor: Level 2, Area: 17.2, Height: 2.8
+ Desks: 2 | Doors reported: 1 | Total door width (cm): 88.8
+ Desk-to-door ratio (cm): 44.4
+ Verdict: PASS
+  - Reported number of doors: 1
+  - Total door width 88.8 cm >= required 2.0 cm (BR18)
+ Statement: Occupants HAVE access to the fire route (desk/door data PASS BR18).
+
+---
+Space: 1216973  (Office:1216973)
+ Floor: Level 2, Area: 35.3, Height: 2.8
+ Desks: 6 | Doors reported: 1 | Total door width (cm): 88.8
+ Desk-to-door ratio (cm): 14.8
+ Verdict: PASS
+  - Reported number of doors: 1
+  - Total door width 88.8 cm >= required 6.0 cm (BR18)
+ Statement: Occupants HAVE access to the fire route (desk/door data PASS BR18).
+
+---
+Space: 1216985  (Office:1216985)
+ Floor: Level 2, Area: 17.2, Height: 2.8
+ Desks: 2 | Doors reported: 1 | Total door width (cm): 88.8
+ Desk-to-door ratio (cm): 44.4
+ Verdict: PASS
+  - Reported number of doors: 1
+  - Total door width 88.8 cm >= required 2.0 cm (BR18)
+ Statement: Occupants HAVE access to the fire route (desk/door data PASS BR18).
+
+---
+Space: 1216988  (Office:1216988)
+ Floor: Level 2, Area: 17.2, Height: 2.8
+ Desks: 2 | Doors reported: 1 | Total door width (cm): 88.8
+ Desk-to-door ratio (cm): 44.4
+ Verdict: PASS
+  - Reported number of doors: 1
+  - Total door width 88.8 cm >= required 2.0 cm (BR18)
+ Statement: Occupants HAVE access to the fire route (desk/door data PASS BR18).
+
+---
+Space: 1216991  (Office:1216991)
+ Floor: Level 2, Area: 17.2, Height: 2.8
+ Desks: 2 | Doors reported: 1 | Total door width (cm): 88.8
+ Desk-to-door ratio (cm): 44.4
+ Verdict: PASS
+  - Reported number of doors: 1
+  - Total door width 88.8 cm >= required 2.0 cm (BR18)
+ Statement: Occupants HAVE access to the fire route (desk/door data PASS BR18).
+
+---
+Space: 1216994  (Office:1216994)
+ Floor: Level 2, Area: 35.3, Height: 2.8
+ Desks: 6 | Doors reported: 1 | Total door width (cm): 88.8
+ Desk-to-door ratio (cm): 14.8
+ Verdict: PASS
+  - Reported number of doors: 1
+  - Total door width 88.8 cm >= required 6.0 cm (BR18)
+ Statement: Occupants HAVE access to the fire route (desk/door data PASS BR18).
+
+---
+Space: 1217012  (Office:1217012)
+ Floor: Level 2, Area: 13.12, Height: 2.8
+ Desks: 1 | Doors reported: 1 | Total door width (cm): 88.8
+ Desk-to-door ratio (cm): 88.8
+ Verdict: PASS
+  - Reported number of doors: 1
+  - Total door width 88.8 cm >= required 1.0 cm (BR18)
+ Statement: Occupants HAVE access to the fire route (desk/door data PASS BR18).
+
+---
+Space: 1217015  (Office:1217015)
+ Floor: Level 2, Area: 13.12, Height: 2.8
+ Desks: 1 | Doors reported: 1 | Total door width (cm): 88.8
+ Desk-to-door ratio (cm): 88.8
+ Verdict: PASS
+  - Reported number of doors: 1
+  - Total door width 88.8 cm >= required 1.0 cm (BR18)
+ Statement: Occupants HAVE access to the fire route (desk/door data PASS BR18).
+
+---
+Space: 1217018  (Office:1217018)
+ Floor: Level 2, Area: 13.12, Height: 2.8
+ Desks: 1 | Doors reported: 1 | Total door width (cm): 88.8
+ Desk-to-door ratio (cm): 88.8
+ Verdict: PASS
+  - Reported number of doors: 1
+  - Total door width 88.8 cm >= required 1.0 cm (BR18)
+ Statement: Occupants HAVE access to the fire route (desk/door data PASS BR18).
+
+---
+Space: 1217021  (Office:1217021)
+ Floor: Level 2, Area: 13.12, Height: 2.8
+ Desks: 1 | Doors reported: 1 | Total door width (cm): 88.8
+ Desk-to-door ratio (cm): 88.8
+ Verdict: PASS
+  - Reported number of doors: 1
+  - Total door width 88.8 cm >= required 1.0 cm (BR18)
+ Statement: Occupants HAVE access to the fire route (desk/door data PASS BR18).
+
+---
+Space: 1217024  (Office:1217024)
+ Floor: Level 2, Area: 13.12, Height: 2.8
+ Desks: 1 | Doors reported: 1 | Total door width (cm): 88.8
+ Desk-to-door ratio (cm): 88.8
+ Verdict: PASS
+  - Reported number of doors: 1
+  - Total door width 88.8 cm >= required 1.0 cm (BR18)
+ Statement: Occupants HAVE access to the fire route (desk/door data PASS BR18).
+
+---
+Space: 1217027  (Office:1217027)
+ Floor: Level 2, Area: 13.12, Height: 2.8
+ Desks: 1 | Doors reported: 1 | Total door width (cm): 88.8
+ Desk-to-door ratio (cm): 88.8
+ Verdict: PASS
+  - Reported number of doors: 1
+  - Total door width 88.8 cm >= required 1.0 cm (BR18)
+ Statement: Occupants HAVE access to the fire route (desk/door data PASS BR18).
+
+---
+Space: 1217030  (Office:1217030)
+ Floor: Level 2, Area: 13.12, Height: 2.8
+ Desks: 1 | Doors reported: 1 | Total door width (cm): 88.8
+ Desk-to-door ratio (cm): 88.8
+ Verdict: PASS
+  - Reported number of doors: 1
+  - Total door width 88.8 cm >= required 1.0 cm (BR18)
+ Statement: Occupants HAVE access to the fire route (desk/door data PASS BR18).
+
+---
+Space: 1217033  (Office:1217033)
+ Floor: Level 2, Area: 13.12, Height: 2.8
+ Desks: 1 | Doors reported: 1 | Total door width (cm): 88.8
+ Desk-to-door ratio (cm): 88.8
+ Verdict: PASS
+  - Reported number of doors: 1
+  - Total door width 88.8 cm >= required 1.0 cm (BR18)
+ Statement: Occupants HAVE access to the fire route (desk/door data PASS BR18).
+
+---
+Space: 1217045  (Office:1217045)
+ Floor: Level 2, Area: 13.12, Height: 2.8
+ Desks: 1 | Doors reported: 1 | Total door width (cm): 88.8
+ Desk-to-door ratio (cm): 88.8
+ Verdict: PASS
+  - Reported number of doors: 1
+  - Total door width 88.8 cm >= required 1.0 cm (BR18)
+ Statement: Occupants HAVE access to the fire route (desk/door data PASS BR18).
+
+---
+Space: 1217048  (Office:1217048)
+ Floor: Level 2, Area: 13.12, Height: 2.8
+ Desks: 1 | Doors reported: 1 | Total door width (cm): 88.8
+ Desk-to-door ratio (cm): 88.8
+ Verdict: PASS
+  - Reported number of doors: 1
+  - Total door width 88.8 cm >= required 1.0 cm (BR18)
+ Statement: Occupants HAVE access to the fire route (desk/door data PASS BR18).
+
+---
+Space: 1217084  (Office:1217084)
+ Floor: Level 2, Area: 17.2, Height: 2.8
+ Desks: 2 | Doors reported: 1 | Total door width (cm): 88.8
+ Desk-to-door ratio (cm): 44.4
+ Verdict: PASS
+  - Reported number of doors: 1
+  - Total door width 88.8 cm >= required 2.0 cm (BR18)
+ Statement: Occupants HAVE access to the fire route (desk/door data PASS BR18).
+
+---
+Space: 1217087  (Office:1217087)
+ Floor: Level 2, Area: 17.2, Height: 2.8
+ Desks: 2 | Doors reported: 1 | Total door width (cm): 88.8
+ Desk-to-door ratio (cm): 44.4
+ Verdict: PASS
+  - Reported number of doors: 1
+  - Total door width 88.8 cm >= required 2.0 cm (BR18)
+ Statement: Occupants HAVE access to the fire route (desk/door data PASS BR18).
+
+---
+Space: 1217096  (Office:1217096)
+ Floor: Level 2, Area: 17.2, Height: 2.8
+ Desks: 2 | Doors reported: 1 | Total door width (cm): 88.8
+ Desk-to-door ratio (cm): 44.4
+ Verdict: PASS
+  - Reported number of doors: 1
+  - Total door width 88.8 cm >= required 2.0 cm (BR18)
+ Statement: Occupants HAVE access to the fire route (desk/door data PASS BR18).
+
+---
+Space: 1217102  (Office:1217102)
+ Floor: Level 2, Area: 35.3, Height: 2.8
+ Desks: 6 | Doors reported: 1 | Total door width (cm): 88.8
+ Desk-to-door ratio (cm): 14.8
+ Verdict: PASS
+  - Reported number of doors: 1
+  - Total door width 88.8 cm >= required 6.0 cm (BR18)
+ Statement: Occupants HAVE access to the fire route (desk/door data PASS BR18).
+
+---
+Space: 1217105  (Office:1217105)
+ Floor: Level 2, Area: 35.3, Height: 2.8
+ Desks: 6 | Doors reported: 1 | Total door width (cm): 88.8
+ Desk-to-door ratio (cm): 14.8
+ Verdict: PASS
+  - Reported number of doors: 1
+  - Total door width 88.8 cm >= required 6.0 cm (BR18)
+ Statement: Occupants HAVE access to the fire route (desk/door data PASS BR18).
+
+---
+Space: 1217108  (Office:1217108)
+ Floor: Level 2, Area: 26.94, Height: 2.8
+ Desks: 4 | Doors reported: 1 | Total door width (cm): 88.8
+ Desk-to-door ratio (cm): 22.2
+ Verdict: PASS
+  - Reported number of doors: 1
+  - Total door width 88.8 cm >= required 4.0 cm (BR18)
+ Statement: Occupants HAVE access to the fire route (desk/door data PASS BR18).
+
+---
+Space: 1217111  (Office:1217111)
+ Floor: Level 2, Area: 26.94, Height: 2.8
+ Desks: 4 | Doors reported: 1 | Total door width (cm): 88.8
+ Desk-to-door ratio (cm): 22.2
+ Verdict: PASS
+  - Reported number of doors: 1
+  - Total door width 88.8 cm >= required 4.0 cm (BR18)
+ Statement: Occupants HAVE access to the fire route (desk/door data PASS BR18).
+
+---
+Space: 1217114  (Office:1217114)
+ Floor: Level 2, Area: 26.94, Height: 2.8
+ Desks: 4 | Doors reported: 1 | Total door width (cm): 88.8
+ Desk-to-door ratio (cm): 22.2
+ Verdict: PASS
+  - Reported number of doors: 1
+  - Total door width 88.8 cm >= required 4.0 cm (BR18)
+ Statement: Occupants HAVE access to the fire route (desk/door data PASS BR18).
+
+---
+Space: 1217117  (Office:1217117)
+ Floor: Level 2, Area: 13.12, Height: 2.8
+ Desks: 1 | Doors reported: 1 | Total door width (cm): 88.8
+ Desk-to-door ratio (cm): 88.8
+ Verdict: PASS
+  - Reported number of doors: 1
+  - Total door width 88.8 cm >= required 1.0 cm (BR18)
+ Statement: Occupants HAVE access to the fire route (desk/door data PASS BR18).
+
+---
+Space: 1217120  (Office:1217120)
+ Floor: Level 2, Area: 13.12, Height: 2.8
+ Desks: 1 | Doors reported: 1 | Total door width (cm): 88.8
+ Desk-to-door ratio (cm): 88.8
+ Verdict: PASS
+  - Reported number of doors: 1
+  - Total door width 88.8 cm >= required 1.0 cm (BR18)
+ Statement: Occupants HAVE access to the fire route (desk/door data PASS BR18).
+
+---
+Space: 1217123  (Office:1217123)
+ Floor: Level 2, Area: 26.94, Height: 2.8
+ Desks: 4 | Doors reported: 1 | Total door width (cm): 88.8
+ Desk-to-door ratio (cm): 22.2
+ Verdict: PASS
+  - Reported number of doors: 1
+  - Total door width 88.8 cm >= required 4.0 cm (BR18)
+ Statement: Occupants HAVE access to the fire route (desk/door data PASS BR18).
+
+---
+Space: 1217129  (Office:1217129)
+ Floor: Level 2, Area: 26.94, Height: 2.8
+ Desks: 4 | Doors reported: 1 | Total door width (cm): 88.8
+ Desk-to-door ratio (cm): 22.2
+ Verdict: PASS
+  - Reported number of doors: 1
+  - Total door width 88.8 cm >= required 4.0 cm (BR18)
+ Statement: Occupants HAVE access to the fire route (desk/door data PASS BR18).
+
+---
+Space: 1222020  (Office:1222020)
+ Floor: Level 4, Area: 102.08, Height: 2.8
+ Desks: 24 | Doors reported: 0 | Total door width (cm): 0.0
+ Desk-to-door ratio (cm): 0.0
+ Verdict: FAIL
+  - Total door width 0.0 cm < required 24.0 cm (BR18)
+ Statement: Occupants DO NOT have the necessary access to the fire route (desk/door data fails BR18).
+
+---
+Space: 1222336  (Office:1222336)
+ Floor: Level 3, Area: 17.2, Height: 2.8
+ Desks: 2 | Doors reported: 1 | Total door width (cm): 88.8
+ Desk-to-door ratio (cm): 44.4
+ Verdict: PASS
+  - Reported number of doors: 1
+  - Total door width 88.8 cm >= required 2.0 cm (BR18)
+ Statement: Occupants HAVE access to the fire route (desk/door data PASS BR18).
+
+---
+Space: 1228977  (Office:1228977)
+ Floor: Level 1, Area: 17.2, Height: 2.8
+ Desks: 2 | Doors reported: 1 | Total door width (cm): 88.8
+ Desk-to-door ratio (cm): 44.4
+ Verdict: PASS
+  - Reported number of doors: 1
+  - Total door width 88.8 cm >= required 2.0 cm (BR18)
+ Statement: Occupants HAVE access to the fire route (desk/door data PASS BR18).
+
+---
+Space: 1228980  (Office:1228980)
+ Floor: Level 1, Area: 35.3, Height: 2.8
+ Desks: 6 | Doors reported: 1 | Total door width (cm): 88.8
+ Desk-to-door ratio (cm): 14.8
+ Verdict: PASS
+  - Reported number of doors: 1
+  - Total door width 88.8 cm >= required 6.0 cm (BR18)
+ Statement: Occupants HAVE access to the fire route (desk/door data PASS BR18).
+
+---
+Space: 1228983  (Office:1228983)
+ Floor: Level 1, Area: 35.3, Height: 2.8
+ Desks: 6 | Doors reported: 1 | Total door width (cm): 88.8
+ Desk-to-door ratio (cm): 14.8
+ Verdict: PASS
+  - Reported number of doors: 1
+  - Total door width 88.8 cm >= required 6.0 cm (BR18)
+ Statement: Occupants HAVE access to the fire route (desk/door data PASS BR18).
+
+---
+Space: 1228989  (Office:1228989)
+ Floor: Level 1, Area: 17.2, Height: 2.8
+ Desks: 2 | Doors reported: 1 | Total door width (cm): 88.8
+ Desk-to-door ratio (cm): 44.4
+ Verdict: PASS
+  - Reported number of doors: 1
+  - Total door width 88.8 cm >= required 2.0 cm (BR18)
+ Statement: Occupants HAVE access to the fire route (desk/door data PASS BR18).
+
+---
+Space: 1229004  (Office:1229004)
+ Floor: Level 1, Area: 26.94, Height: 2.8
+ Desks: 4 | Doors reported: 1 | Total door width (cm): 88.8
+ Desk-to-door ratio (cm): 22.2
+ Verdict: PASS
+  - Reported number of doors: 1
+  - Total door width 88.8 cm >= required 4.0 cm (BR18)
+ Statement: Occupants HAVE access to the fire route (desk/door data PASS BR18).
+
+---
+Space: 1229007  (Office:1229007)
+ Floor: Level 1, Area: 26.94, Height: 2.8
+ Desks: 4 | Doors reported: 1 | Total door width (cm): 88.8
+ Desk-to-door ratio (cm): 22.2
+ Verdict: PASS
+  - Reported number of doors: 1
+  - Total door width 88.8 cm >= required 4.0 cm (BR18)
+ Statement: Occupants HAVE access to the fire route (desk/door data PASS BR18).
+
+---
+Space: 1229019  (Office:1229019)
+ Floor: Level 1, Area: 26.94, Height: 2.8
+ Desks: 4 | Doors reported: 1 | Total door width (cm): 88.8
+ Desk-to-door ratio (cm): 22.2
+ Verdict: PASS
+  - Reported number of doors: 1
+  - Total door width 88.8 cm >= required 4.0 cm (BR18)
+ Statement: Occupants HAVE access to the fire route (desk/door data PASS BR18).
+
+---
+Space: 1229022  (Office:1229022)
+ Floor: Level 1, Area: 26.94, Height: 2.8
+ Desks: 4 | Doors reported: 1 | Total door width (cm): 88.8
+ Desk-to-door ratio (cm): 22.2
+ Verdict: PASS
+  - Reported number of doors: 1
+  - Total door width 88.8 cm >= required 4.0 cm (BR18)
+ Statement: Occupants HAVE access to the fire route (desk/door data PASS BR18).
+
+---
+Space: 1229025  (Office:1229025)
+ Floor: Level 1, Area: 26.94, Height: 2.8
+ Desks: 4 | Doors reported: 1 | Total door width (cm): 88.8
+ Desk-to-door ratio (cm): 22.2
+ Verdict: PASS
+  - Reported number of doors: 1
+  - Total door width 88.8 cm >= required 4.0 cm (BR18)
+ Statement: Occupants HAVE access to the fire route (desk/door data PASS BR18).
+
+---
+Space: 1230460  (Stair:1230460)
+ Floor: Level 4, Area: 200.18, Height: 2.8
+ Desks: 25 | Doors reported: 2 | Total door width (cm): 297.3
+ Desk-to-door ratio (cm): 11.89
+ Verdict: PASS
+  - Reported number of doors: 2
+  - Total door width 297.3 cm >= required 25.0 cm (BR18)
+ Statement: Occupants HAVE access to the fire route (desk/door data PASS BR18).
+
+---
+Space: 1580619  (Student space:1580619)
+ Floor: Level 1, Area: 112.64, Height: 2.8
+ Desks: 4 | Doors reported: 0 | Total door width (cm): 0.0
+ Desk-to-door ratio (cm): 0.0
+ Verdict: FAIL
+  - Total door width 0.0 cm < required 4.0 cm (BR18)
+ Statement: Occupants DO NOT have the necessary access to the fire route (desk/door data fails BR18).
+
+---
+Space: 1582587  (Office:1582587)
+ Floor: Level 4, Area: 47.79, Height: 2.8
+ Desks: 12 | Doors reported: 0 | Total door width (cm): 0.0
+ Desk-to-door ratio (cm): 0.0
+ Verdict: FAIL
+  - Total door width 0.0 cm < required 12.0 cm (BR18)
+ Statement: Occupants DO NOT have the necessary access to the fire route (desk/door data fails BR18).
+
+---
+Space: 1582624  (Office:1582624)
+ Floor: Level 3, Area: 91.85, Height: 2.8
+ Desks: 25 | Doors reported: 0 | Total door width (cm): 0.0
+ Desk-to-door ratio (cm): 0.0
+ Verdict: FAIL
+  - Total door width 0.0 cm < required 25.0 cm (BR18)
+ Statement: Occupants DO NOT have the necessary access to the fire route (desk/door data fails BR18).
+
+---
+Space: 1582627  (Office:1582627)
+ Floor: Level 3, Area: 99.14, Height: 2.8
+ Desks: 28 | Doors reported: 0 | Total door width (cm): 0.0
+ Desk-to-door ratio (cm): 0.0
+ Verdict: FAIL
+  - Total door width 0.0 cm < required 28.0 cm (BR18)
+ Statement: Occupants DO NOT have the necessary access to the fire route (desk/door data fails BR18).
+
+---
+Space: 2201265  (Office:2201265)
+ Floor: Level 3, Area: 107.53, Height: 2.8
+ Desks: 23 | Doors reported: 0 | Total door width (cm): 0.0
+ Desk-to-door ratio (cm): 0.0
+ Verdict: FAIL
+  - Total door width 0.0 cm < required 23.0 cm (BR18)
+ Statement: Occupants DO NOT have the necessary access to the fire route (desk/door data fails BR18).
+
+---
+Space: 2201268  (Office:2201268)
+ Floor: Level 3, Area: 105.71, Height: 2.8
+ Desks: 28 | Doors reported: 0 | Total door width (cm): 0.0
+ Desk-to-door ratio (cm): 0.0
+ Verdict: FAIL
+  - Total door width 0.0 cm < required 28.0 cm (BR18)
+ Statement: Occupants DO NOT have the necessary access to the fire route (desk/door data fails BR18).
+
+---
+Space: 2234409  (Office:2234409)
+ Floor: Level 4, Area: 40.57, Height: 2.8
+ Desks: 13 | Doors reported: 0 | Total door width (cm): 0.0
+ Desk-to-door ratio (cm): 0.0
+ Verdict: FAIL
+  - Total door width 0.0 cm < required 13.0 cm (BR18)
+ Statement: Occupants DO NOT have the necessary access to the fire route (desk/door data fails BR18).
+
+---
+Space: 2234413  (Office:2234413)
+ Floor: Level 4, Area: 35.44, Height: 2.8
+ Desks: 13 | Doors reported: 0 | Total door width (cm): 0.0
+ Desk-to-door ratio (cm): 0.0
+ Verdict: FAIL
+  - Total door width 0.0 cm < required 13.0 cm (BR18)
+ Statement: Occupants DO NOT have the necessary access to the fire route (desk/door data fails BR18).
+
+---
+Space: 2238662  (Student space:2238662)
+ Floor: Level 1, Area: 112.26, Height: 2.8
+ Desks: 4 | Doors reported: 0 | Total door width (cm): 0.0
+ Desk-to-door ratio (cm): 0.0
+ Verdict: FAIL
+  - Total door width 0.0 cm < required 4.0 cm (BR18)
+ Statement: Occupants DO NOT have the necessary access to the fire route (desk/door data fails BR18).
+
+---
+Space: Atrium:1158486  (Atrium:1158486)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: Atrium:1218068  (Atrium:1218068)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: Atrium:1219989  (Atrium:1219989)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: Atrium:1319636  (Atrium:1319636)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: Auditorium:1133158  (Auditorium:1133158)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: Elevator:1133167  (Elevator:1133167)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: Elevator:1147518  (Elevator:1147518)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: Elevator:1317401  (Elevator:1317401)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: Elevator:1319254  (Elevator:1319254)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: Elevator:1320064  (Elevator:1320064)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: Elevator:1320451  (Elevator:1320451)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: Hallway:1133161  (Hallway:1133161)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: Hallway:1133176  (Hallway:1133176)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: Hallway:1133209  (Hallway:1133209)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: Hallway:1133213  (Hallway:1133213)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: Hallway:1157887  (Hallway:1157887)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: Hallway:1158176  (Hallway:1158176)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: Hallway:1158179  (Hallway:1158179)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: Hallway:1220218  (Hallway:1220218)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: Hallway:1317689  (Hallway:1317689)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: Hallway:1319242  (Hallway:1319242)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: Hallway:1320061  (Hallway:1320061)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: Hallway:1320448  (Hallway:1320448)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: Hallway:1573335  (Hallway:1573335)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: Hallway:1574774  (Hallway:1574774)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: Hallway:1575031  (Hallway:1575031)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: Hallway:1576306  (Hallway:1576306)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: Hallway:1582548  (Hallway:1582548)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: Hallway:2234384  (Hallway:2234384)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: Kitchen:1158185  (Kitchen:1158185)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: Kitchen:1216957  (Kitchen:1216957)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: Kitchen:1220242  (Kitchen:1220242)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: Kitchen:1228974  (Kitchen:1228974)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: Office:1582577  (Office:1582577)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: Stair:1158188  (Stair:1158188)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: Stair:1217158  (Stair:1217158)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: Stair:1218075  (Stair:1218075)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: Stair:1219983  (Stair:1219983)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: Tech:1133179  (Tech:1133179)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: Tech:1216982  (Tech:1216982)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: Tech:1217093  (Tech:1217093)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: Tech:1222017  (Tech:1222017)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: Tech:1222333  (Tech:1222333)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: Tech:1222626  (Tech:1222626)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: Tech:1222783  (Tech:1222783)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: Tech:1228986  (Tech:1228986)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: Toilets:1133170  (Toilets:1133170)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: Toilets:1158182  (Toilets:1158182)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: Toilets:1217165  (Toilets:1217165)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: Toilets:1220239  (Toilets:1220239)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: Toilets:1228971  (Toilets:1228971)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: area:1580304  (area:1580304)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: area:1580343  (area:1580343)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: area:1580763  (area:1580763)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: area:1582611  (area:1582611)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: area:2234411  (area:2234411)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: desk:1580301  (desk:1580301)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: elevator:1150421  (elevator:1150421)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: elevator:1151860  (elevator:1151860)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: elevator:1217178  (elevator:1217178)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: elevator:1220221  (elevator:1220221)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: elevator:1228965  (elevator:1228965)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: kitchen:1133173  (kitchen:1133173)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: library:1580334  (library:1580334)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: room:1133182  (room:1133182)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: room:1133188  (room:1133188)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: room:1133191  (room:1133191)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: room:1133194  (room:1133194)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: room:1157884  (room:1157884)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: room:1158161  (room:1158161)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: room:1158164  (room:1158164)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: room:1217036  (room:1217036)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: room:1217039  (room:1217039)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: room:1217042  (room:1217042)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: room:1217090  (room:1217090)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: room:1217099  (room:1217099)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: room:1220224  (room:1220224)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: room:1220227  (room:1220227)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: room:1220245  (room:1220245)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: room:1220248  (room:1220248)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: room:1220251  (room:1220251)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: room:1222014  (room:1222014)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: room:1228962  (room:1228962)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: room:1228992  (room:1228992)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: room:1229001  (room:1229001)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: room:1229013  (room:1229013)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+---
+Space: room:1229016  (room:1229016)
+ Floor: None, Area: None, Height: None
+ Desks: 0 | Doors reported: None | Total door width (cm): None
+ Desk-to-door ratio (cm): None
+ Verdict: NOT_APPLICABLE
+  - No desks in this space
+ Statement: Not applicable (no desks)
+
+
+=== Desks not in any IfcSpace (listed) ===
+ Desk: 1212429  GlobalId: 2dRl5W5bT2a9_2uqp0ea57
+ Desk: 1212430  GlobalId: 2dRl5W5bT2a9_2uqp0ea56
+ Desk: 1212431  GlobalId: 2dRl5W5bT2a9_2uqp0ea51
+ Desk: 1212432  GlobalId: 2dRl5W5bT2a9_2uqp0ea50
+ Desk: 1212433  GlobalId: 2dRl5W5bT2a9_2uqp0ea53
+ Desk: 1212434  GlobalId: 2dRl5W5bT2a9_2uqp0ea52
+ Desk: 1212435  GlobalId: 2dRl5W5bT2a9_2uqp0ea5D
+ Desk: 1212436  GlobalId: 2dRl5W5bT2a9_2uqp0ea5C
+ Desk: 1212437  GlobalId: 2dRl5W5bT2a9_2uqp0ea5F
+ Desk: 1212438  GlobalId: 2dRl5W5bT2a9_2uqp0ea5E
+ Desk: 1212442  GlobalId: 2dRl5W5bT2a9_2uqp0ehxz
+ Desk: 1212443  GlobalId: 2dRl5W5bT2a9_2uqp0ehxy
+ Desk: 1212444  GlobalId: 2dRl5W5bT2a9_2uqp0ehx$
+ Desk: 1212445  GlobalId: 2dRl5W5bT2a9_2uqp0ehx_
+ Desk: 1212446  GlobalId: 2dRl5W5bT2a9_2uqp0ehxv
+ Desk: 1212447  GlobalId: 2dRl5W5bT2a9_2uqp0ehxu
+ Desk: 1212448  GlobalId: 2dRl5W5bT2a9_2uqp0ehxx
+ Desk: 1212449  GlobalId: 2dRl5W5bT2a9_2uqp0ehxw
+ Desk: 1212450  GlobalId: 2dRl5W5bT2a9_2uqp0ehxb
+ Desk: 1212451  GlobalId: 2dRl5W5bT2a9_2uqp0ehxa
+ Desk: 1212505  GlobalId: 2dRl5W5bT2a9_2uqp0ehwi
+ Desk: 1212506  GlobalId: 2dRl5W5bT2a9_2uqp0ehwl
+ Desk: 1212507  GlobalId: 2dRl5W5bT2a9_2uqp0ehwk
+ Desk: 1212508  GlobalId: 2dRl5W5bT2a9_2uqp0ehwf
+ Desk: 1212509  GlobalId: 2dRl5W5bT2a9_2uqp0ehwe
+ Desk: 1212599  GlobalId: 2dRl5W5bT2a9_2uqp0ehv2
+ Desk: 1212600  GlobalId: 2dRl5W5bT2a9_2uqp0ehvD
+ Desk: 1212601  GlobalId: 2dRl5W5bT2a9_2uqp0ehvC
+ Desk: 1212602  GlobalId: 2dRl5W5bT2a9_2uqp0ehvF
+ Desk: 1212603  GlobalId: 2dRl5W5bT2a9_2uqp0ehvE
+ Desk: 1212604  GlobalId: 2dRl5W5bT2a9_2uqp0ehv9
+ Desk: 1212605  GlobalId: 2dRl5W5bT2a9_2uqp0ehv8
+ Desk: 1212606  GlobalId: 2dRl5W5bT2a9_2uqp0ehvB
+ Desk: 1212607  GlobalId: 2dRl5W5bT2a9_2uqp0ehvA
+ Desk: 1212608  GlobalId: 2dRl5W5bT2a9_2uqp0ehur
+ Desk: 1212737  GlobalId: 2dRl5W5bT2a9_2uqp0eh_q
+ Desk: 1212738  GlobalId: 2dRl5W5bT2a9_2uqp0eh_t
+ Desk: 1212739  GlobalId: 2dRl5W5bT2a9_2uqp0eh_s
+ Desk: 1212740  GlobalId: 2dRl5W5bT2a9_2uqp0eh_n
+ Desk: 1212741  GlobalId: 2dRl5W5bT2a9_2uqp0eh_m
+ Desk: 1212805  GlobalId: 2dRl5W5bT2a9_2uqp0ehzm
+ Desk: 1212806  GlobalId: 2dRl5W5bT2a9_2uqp0ehzp
+ Desk: 1212807  GlobalId: 2dRl5W5bT2a9_2uqp0ehzo
+ Desk: 1212808  GlobalId: 2dRl5W5bT2a9_2uqp0ehzz
+ Desk: 1212809  GlobalId: 2dRl5W5bT2a9_2uqp0ehzy
+ Desk: 1212810  GlobalId: 2dRl5W5bT2a9_2uqp0ehz$
+ Desk: 1212811  GlobalId: 2dRl5W5bT2a9_2uqp0ehz_
+ Desk: 1212812  GlobalId: 2dRl5W5bT2a9_2uqp0ehzv
+ Desk: 1212873  GlobalId: 2dRl5W5bT2a9_2uqp0ehyy
+ Desk: 1212874  GlobalId: 2dRl5W5bT2a9_2uqp0ehy$
+ Desk: 1212875  GlobalId: 2dRl5W5bT2a9_2uqp0ehy_
+ Desk: 1212876  GlobalId: 2dRl5W5bT2a9_2uqp0ehyv
+ Desk: 1212877  GlobalId: 2dRl5W5bT2a9_2uqp0ehyu
+ Desk: 1212878  GlobalId: 2dRl5W5bT2a9_2uqp0ehyx
+ Desk: 1212879  GlobalId: 2dRl5W5bT2a9_2uqp0ehyw
+ Desk: 1212880  GlobalId: 2dRl5W5bT2a9_2uqp0ehyb
+ Desk: 1212939  GlobalId: 2dRl5W5bT2a9_2uqp0ehp_
+ Desk: 1212940  GlobalId: 2dRl5W5bT2a9_2uqp0ehpv
+ Desk: 1212941  GlobalId: 2dRl5W5bT2a9_2uqp0ehpu
+ Desk: 1212942  GlobalId: 2dRl5W5bT2a9_2uqp0ehpx
+ Desk: 1212943  GlobalId: 2dRl5W5bT2a9_2uqp0ehpw
+ Desk: 1212944  GlobalId: 2dRl5W5bT2a9_2uqp0ehpb
+ Desk: 1212945  GlobalId: 2dRl5W5bT2a9_2uqp0ehpa
+ Desk: 1212946  GlobalId: 2dRl5W5bT2a9_2uqp0ehpd
+ Desk: 1215133  GlobalId: 2dRl5W5bT2a9_2uqp0ehHe
+ Desk: 1215134  GlobalId: 2dRl5W5bT2a9_2uqp0ehHh
+ Desk: 1215135  GlobalId: 2dRl5W5bT2a9_2uqp0ehHg
+ Desk: 1215136  GlobalId: 2dRl5W5bT2a9_2uqp0ehHL
+ Desk: 1215137  GlobalId: 2dRl5W5bT2a9_2uqp0ehHK
+ Desk: 1215138  GlobalId: 2dRl5W5bT2a9_2uqp0ehHN
+ Desk: 1481512  GlobalId: 3$f6LDA5v8iPfn0U1iMy7T
+ Desk: 1481711  GlobalId: 3$f6LDA5v8iPfn0U1iMy1_
+ Desk: 1481712  GlobalId: 3$f6LDA5v8iPfn0U1iMy1X
+ Desk: 1481713  GlobalId: 3$f6LDA5v8iPfn0U1iMy1W
+ Desk: 1481714  GlobalId: 3$f6LDA5v8iPfn0U1iMy1Z
+ Desk: 1481715  GlobalId: 3$f6LDA5v8iPfn0U1iMy1Y
+ Desk: 1481716  GlobalId: 3$f6LDA5v8iPfn0U1iMy1b
+ Desk: 1482312  GlobalId: 3$f6LDA5v8iPfn0U1iMyNP
+ Desk: 1482313  GlobalId: 3$f6LDA5v8iPfn0U1iMyNO
+ Desk: 1482314  GlobalId: 3$f6LDA5v8iPfn0U1iMyNR
+ Desk: 1482315  GlobalId: 3$f6LDA5v8iPfn0U1iMyNQ
+ Desk: 1482837  GlobalId: 3$f6LDA5v8iPfn0U1iM$l4
+ Desk: 1482838  GlobalId: 3$f6LDA5v8iPfn0U1iM$l7
+ Desk: 1482839  GlobalId: 3$f6LDA5v8iPfn0U1iM$l6
+ Desk: 1482840  GlobalId: 3$f6LDA5v8iPfn0U1iM$l9
+ Desk: 1482841  GlobalId: 3$f6LDA5v8iPfn0U1iM$l8
+ Desk: 1482842  GlobalId: 3$f6LDA5v8iPfn0U1iM$lB
+ Desk: 1483165  GlobalId: 3$f6LDA5v8iPfn0U1iM$eC
+ Desk: 1581527  GlobalId: 15_kkT3lf2ePzBHG_qJYY_
+ Desk: 2245375  GlobalId: 2E9fNU8q1C1gA_wzcoXxQc
+ Desk: 2245376  GlobalId: 2E9fNU8q1C1gA_wzcoXxQX
+ Desk: 2245377  GlobalId: 2E9fNU8q1C1gA_wzcoXxQW
+ Desk: 2245378  GlobalId: 2E9fNU8q1C1gA_wzcoXxQZ
+ Desk: 2245379  GlobalId: 2E9fNU8q1C1gA_wzcoXxQY
+ Desk: 2245380  GlobalId: 2E9fNU8q1C1gA_wzcoXxQj
+ Desk: 2245381  GlobalId: 2E9fNU8q1C1gA_wzcoXxQi
+ Desk: 2245382  GlobalId: 2E9fNU8q1C1gA_wzcoXxQl
+ Desk: 2245383  GlobalId: 2E9fNU8q1C1gA_wzcoXxQk
+ Desk: 2245384  GlobalId: 2E9fNU8q1C1gA_wzcoXxQf

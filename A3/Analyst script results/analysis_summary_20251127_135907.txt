@@ -1,0 +1,43 @@
+Requirements				
+- Doors: clear opening width ? 800 mm				
+- Corridors: clear width ? 1300 mm AND must link to a stair via a door/opening				
+- Stairs: clear flight width ? 1000 mm				
+- Stair flights: must be enclosed by 4 walls (left, right, top, bottom)				
+				
+Category	Passing count	Failing count	Failing element ID's	Reason for failure
+Doors	190	0		
+Corridors	15	3	"1220218
+1573335
+1582548"	"Does not link to stairs via doors/openings
+Does not link to stairs via doors/openings
+Does not link to stairs via doors/openings"
+Stairs (width)	25	0		
+Stair flights (4-wall enclosure)	10	15	"1282665 Run 3
+1286620 Run 3
+1286728 Run 3
+1287116 Run 3
+1287174 Run 3
+1324988 Run 1
+1324988 Run 1:2
+1324988 Run 1:3
+1324988 Run 1:4
+1325916 Run 1
+1325916 Run 1:2
+1325916 Run 1:3
+1325916 Run 1:4
+2381149 Run 1
+2381470 Run 1"	"sides_covered=3/4
+sides_covered=3/4
+sides_covered=3/4
+sides_covered=3/4
+sides_covered=3/4
+sides_covered=0/4
+sides_covered=0/4
+sides_covered=0/4
+sides_covered=0/4
+sides_covered=0/4
+sides_covered=0/4
+sides_covered=0/4
+sides_covered=0/4
+sides_covered=0/4
+sides_covered=0/4"

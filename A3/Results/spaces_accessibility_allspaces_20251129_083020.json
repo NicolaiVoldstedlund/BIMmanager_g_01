@@ -1,0 +1,2681 @@
+{
+  "generated": "20251129_083020",
+  "totals": {
+    "spaces_scanned": 139,
+    "spaces_with_desks": 52,
+    "spaces_pass": 42,
+    "spaces_fail": 10,
+    "spaces_unknown": 0,
+    "desks_total": 321,
+    "spaces_not_applicable": 87,
+    "occupants_total": 321,
+    "br18_min_total_door_width_cm": 321.0,
+    "chart_path": "C:\\Users\\nicol\\OneDrive - Danmarks Tekniske Universitet\\DTU\\7. Semester\\41934 Advanced Building Information Modeling\\GitHub\\BIMmanager_g_01\\A3\\Results\\spaces_accessibility_chart_20251129_083020.png"
+  },
+  "details": [
+    {
+      "space_id": "1158149",
+      "title": "Office:1158149",
+      "n_desks": 6,
+      "n_doors_reported": 1,
+      "total_door_width_cm_reported": 88.8,
+      "desk_to_door_ratio_cm": 14.8,
+      "area_m2": 35.3,
+      "height_m": 2.8,
+      "floor": "Level 3",
+      "verdict": "PASS",
+      "reasons": [
+        "Reported number of doors: 1",
+        "Total door width 88.8 cm >= required 6.0 cm (BR18)"
+      ],
+      "fire_route_statement": "Occupants HAVE access to the fire route (desk/door data PASS BR18)."
+    },
+    {
+      "space_id": "1158167",
+      "title": "Office:1158167",
+      "n_desks": 4,
+      "n_doors_reported": 1,
+      "total_door_width_cm_reported": 88.8,
+      "desk_to_door_ratio_cm": 22.2,
+      "area_m2": 26.94,
+      "height_m": 2.8,
+      "floor": "Level 3",
+      "verdict": "PASS",
+      "reasons": [
+        "Reported number of doors: 1",
+        "Total door width 88.8 cm >= required 4.0 cm (BR18)"
+      ],
+      "fire_route_statement": "Occupants HAVE access to the fire route (desk/door data PASS BR18)."
+    },
+    {
+      "space_id": "1158170",
+      "title": "Office:1158170",
+      "n_desks": 4,
+      "n_doors_reported": 1,
+      "total_door_width_cm_reported": 88.8,
+      "desk_to_door_ratio_cm": 22.2,
+      "area_m2": 26.94,
+      "height_m": 2.8,
+      "floor": "Level 3",
+      "verdict": "PASS",
+      "reasons": [
+        "Reported number of doors: 1",
+        "Total door width 88.8 cm >= required 4.0 cm (BR18)"
+      ],
+      "fire_route_statement": "Occupants HAVE access to the fire route (desk/door data PASS BR18)."
+    },
+    {
+      "space_id": "1216965",
+      "title": "Office:1216965",
+      "n_desks": 2,
+      "n_doors_reported": 1,
+      "total_door_width_cm_reported": 88.8,
+      "desk_to_door_ratio_cm": 44.4,
+      "area_m2": 17.2,
+      "height_m": 2.8,
+      "floor": "Level 2",
+      "verdict": "PASS",
+      "reasons": [
+        "Reported number of doors: 1",
+        "Total door width 88.8 cm >= required 2.0 cm (BR18)"
+      ],
+      "fire_route_statement": "Occupants HAVE access to the fire route (desk/door data PASS BR18)."
+    },
+    {
+      "space_id": "1216973",
+      "title": "Office:1216973",
+      "n_desks": 6,
+      "n_doors_reported": 1,
+      "total_door_width_cm_reported": 88.8,
+      "desk_to_door_ratio_cm": 14.8,
+      "area_m2": 35.3,
+      "height_m": 2.8,
+      "floor": "Level 2",
+      "verdict": "PASS",
+      "reasons": [
+        "Reported number of doors: 1",
+        "Total door width 88.8 cm >= required 6.0 cm (BR18)"
+      ],
+      "fire_route_statement": "Occupants HAVE access to the fire route (desk/door data PASS BR18)."
+    },
+    {
+      "space_id": "1216985",
+      "title": "Office:1216985",
+      "n_desks": 2,
+      "n_doors_reported": 1,
+      "total_door_width_cm_reported": 88.8,
+      "desk_to_door_ratio_cm": 44.4,
+      "area_m2": 17.2,
+      "height_m": 2.8,
+      "floor": "Level 2",
+      "verdict": "PASS",
+      "reasons": [
+        "Reported number of doors: 1",
+        "Total door width 88.8 cm >= required 2.0 cm (BR18)"
+      ],
+      "fire_route_statement": "Occupants HAVE access to the fire route (desk/door data PASS BR18)."
+    },
+    {
+      "space_id": "1216988",
+      "title": "Office:1216988",
+      "n_desks": 2,
+      "n_doors_reported": 1,
+      "total_door_width_cm_reported": 88.8,
+      "desk_to_door_ratio_cm": 44.4,
+      "area_m2": 17.2,
+      "height_m": 2.8,
+      "floor": "Level 2",
+      "verdict": "PASS",
+      "reasons": [
+        "Reported number of doors: 1",
+        "Total door width 88.8 cm >= required 2.0 cm (BR18)"
+      ],
+      "fire_route_statement": "Occupants HAVE access to the fire route (desk/door data PASS BR18)."
+    },
+    {
+      "space_id": "1216991",
+      "title": "Office:1216991",
+      "n_desks": 2,
+      "n_doors_reported": 1,
+      "total_door_width_cm_reported": 88.8,
+      "desk_to_door_ratio_cm": 44.4,
+      "area_m2": 17.2,
+      "height_m": 2.8,
+      "floor": "Level 2",
+      "verdict": "PASS",
+      "reasons": [
+        "Reported number of doors: 1",
+        "Total door width 88.8 cm >= required 2.0 cm (BR18)"
+      ],
+      "fire_route_statement": "Occupants HAVE access to the fire route (desk/door data PASS BR18)."
+    },
+    {
+      "space_id": "1216994",
+      "title": "Office:1216994",
+      "n_desks": 6,
+      "n_doors_reported": 1,
+      "total_door_width_cm_reported": 88.8,
+      "desk_to_door_ratio_cm": 14.8,
+      "area_m2": 35.3,
+      "height_m": 2.8,
+      "floor": "Level 2",
+      "verdict": "PASS",
+      "reasons": [
+        "Reported number of doors: 1",
+        "Total door width 88.8 cm >= required 6.0 cm (BR18)"
+      ],
+      "fire_route_statement": "Occupants HAVE access to the fire route (desk/door data PASS BR18)."
+    },
+    {
+      "space_id": "1217012",
+      "title": "Office:1217012",
+      "n_desks": 1,
+      "n_doors_reported": 1,
+      "total_door_width_cm_reported": 88.8,
+      "desk_to_door_ratio_cm": 88.8,
+      "area_m2": 13.12,
+      "height_m": 2.8,
+      "floor": "Level 2",
+      "verdict": "PASS",
+      "reasons": [
+        "Reported number of doors: 1",
+        "Total door width 88.8 cm >= required 1.0 cm (BR18)"
+      ],
+      "fire_route_statement": "Occupants HAVE access to the fire route (desk/door data PASS BR18)."
+    },
+    {
+      "space_id": "1217015",
+      "title": "Office:1217015",
+      "n_desks": 1,
+      "n_doors_reported": 1,
+      "total_door_width_cm_reported": 88.8,
+      "desk_to_door_ratio_cm": 88.8,
+      "area_m2": 13.12,
+      "height_m": 2.8,
+      "floor": "Level 2",
+      "verdict": "PASS",
+      "reasons": [
+        "Reported number of doors: 1",
+        "Total door width 88.8 cm >= required 1.0 cm (BR18)"
+      ],
+      "fire_route_statement": "Occupants HAVE access to the fire route (desk/door data PASS BR18)."
+    },
+    {
+      "space_id": "1217018",
+      "title": "Office:1217018",
+      "n_desks": 1,
+      "n_doors_reported": 1,
+      "total_door_width_cm_reported": 88.8,
+      "desk_to_door_ratio_cm": 88.8,
+      "area_m2": 13.12,
+      "height_m": 2.8,
+      "floor": "Level 2",
+      "verdict": "PASS",
+      "reasons": [
+        "Reported number of doors: 1",
+        "Total door width 88.8 cm >= required 1.0 cm (BR18)"
+      ],
+      "fire_route_statement": "Occupants HAVE access to the fire route (desk/door data PASS BR18)."
+    },
+    {
+      "space_id": "1217021",
+      "title": "Office:1217021",
+      "n_desks": 1,
+      "n_doors_reported": 1,
+      "total_door_width_cm_reported": 88.8,
+      "desk_to_door_ratio_cm": 88.8,
+      "area_m2": 13.12,
+      "height_m": 2.8,
+      "floor": "Level 2",
+      "verdict": "PASS",
+      "reasons": [
+        "Reported number of doors: 1",
+        "Total door width 88.8 cm >= required 1.0 cm (BR18)"
+      ],
+      "fire_route_statement": "Occupants HAVE access to the fire route (desk/door data PASS BR18)."
+    },
+    {
+      "space_id": "1217024",
+      "title": "Office:1217024",
+      "n_desks": 1,
+      "n_doors_reported": 1,
+      "total_door_width_cm_reported": 88.8,
+      "desk_to_door_ratio_cm": 88.8,
+      "area_m2": 13.12,
+      "height_m": 2.8,
+      "floor": "Level 2",
+      "verdict": "PASS",
+      "reasons": [
+        "Reported number of doors: 1",
+        "Total door width 88.8 cm >= required 1.0 cm (BR18)"
+      ],
+      "fire_route_statement": "Occupants HAVE access to the fire route (desk/door data PASS BR18)."
+    },
+    {
+      "space_id": "1217027",
+      "title": "Office:1217027",
+      "n_desks": 1,
+      "n_doors_reported": 1,
+      "total_door_width_cm_reported": 88.8,
+      "desk_to_door_ratio_cm": 88.8,
+      "area_m2": 13.12,
+      "height_m": 2.8,
+      "floor": "Level 2",
+      "verdict": "PASS",
+      "reasons": [
+        "Reported number of doors: 1",
+        "Total door width 88.8 cm >= required 1.0 cm (BR18)"
+      ],
+      "fire_route_statement": "Occupants HAVE access to the fire route (desk/door data PASS BR18)."
+    },
+    {
+      "space_id": "1217030",
+      "title": "Office:1217030",
+      "n_desks": 1,
+      "n_doors_reported": 1,
+      "total_door_width_cm_reported": 88.8,
+      "desk_to_door_ratio_cm": 88.8,
+      "area_m2": 13.12,
+      "height_m": 2.8,
+      "floor": "Level 2",
+      "verdict": "PASS",
+      "reasons": [
+        "Reported number of doors: 1",
+        "Total door width 88.8 cm >= required 1.0 cm (BR18)"
+      ],
+      "fire_route_statement": "Occupants HAVE access to the fire route (desk/door data PASS BR18)."
+    },
+    {
+      "space_id": "1217033",
+      "title": "Office:1217033",
+      "n_desks": 1,
+      "n_doors_reported": 1,
+      "total_door_width_cm_reported": 88.8,
+      "desk_to_door_ratio_cm": 88.8,
+      "area_m2": 13.12,
+      "height_m": 2.8,
+      "floor": "Level 2",
+      "verdict": "PASS",
+      "reasons": [
+        "Reported number of doors: 1",
+        "Total door width 88.8 cm >= required 1.0 cm (BR18)"
+      ],
+      "fire_route_statement": "Occupants HAVE access to the fire route (desk/door data PASS BR18)."
+    },
+    {
+      "space_id": "1217045",
+      "title": "Office:1217045",
+      "n_desks": 1,
+      "n_doors_reported": 1,
+      "total_door_width_cm_reported": 88.8,
+      "desk_to_door_ratio_cm": 88.8,
+      "area_m2": 13.12,
+      "height_m": 2.8,
+      "floor": "Level 2",
+      "verdict": "PASS",
+      "reasons": [
+        "Reported number of doors: 1",
+        "Total door width 88.8 cm >= required 1.0 cm (BR18)"
+      ],
+      "fire_route_statement": "Occupants HAVE access to the fire route (desk/door data PASS BR18)."
+    },
+    {
+      "space_id": "1217048",
+      "title": "Office:1217048",
+      "n_desks": 1,
+      "n_doors_reported": 1,
+      "total_door_width_cm_reported": 88.8,
+      "desk_to_door_ratio_cm": 88.8,
+      "area_m2": 13.12,
+      "height_m": 2.8,
+      "floor": "Level 2",
+      "verdict": "PASS",
+      "reasons": [
+        "Reported number of doors: 1",
+        "Total door width 88.8 cm >= required 1.0 cm (BR18)"
+      ],
+      "fire_route_statement": "Occupants HAVE access to the fire route (desk/door data PASS BR18)."
+    },
+    {
+      "space_id": "1217084",
+      "title": "Office:1217084",
+      "n_desks": 2,
+      "n_doors_reported": 1,
+      "total_door_width_cm_reported": 88.8,
+      "desk_to_door_ratio_cm": 44.4,
+      "area_m2": 17.2,
+      "height_m": 2.8,
+      "floor": "Level 2",
+      "verdict": "PASS",
+      "reasons": [
+        "Reported number of doors: 1",
+        "Total door width 88.8 cm >= required 2.0 cm (BR18)"
+      ],
+      "fire_route_statement": "Occupants HAVE access to the fire route (desk/door data PASS BR18)."
+    },
+    {
+      "space_id": "1217087",
+      "title": "Office:1217087",
+      "n_desks": 2,
+      "n_doors_reported": 1,
+      "total_door_width_cm_reported": 88.8,
+      "desk_to_door_ratio_cm": 44.4,
+      "area_m2": 17.2,
+      "height_m": 2.8,
+      "floor": "Level 2",
+      "verdict": "PASS",
+      "reasons": [
+        "Reported number of doors: 1",
+        "Total door width 88.8 cm >= required 2.0 cm (BR18)"
+      ],
+      "fire_route_statement": "Occupants HAVE access to the fire route (desk/door data PASS BR18)."
+    },
+    {
+      "space_id": "1217096",
+      "title": "Office:1217096",
+      "n_desks": 2,
+      "n_doors_reported": 1,
+      "total_door_width_cm_reported": 88.8,
+      "desk_to_door_ratio_cm": 44.4,
+      "area_m2": 17.2,
+      "height_m": 2.8,
+      "floor": "Level 2",
+      "verdict": "PASS",
+      "reasons": [
+        "Reported number of doors: 1",
+        "Total door width 88.8 cm >= required 2.0 cm (BR18)"
+      ],
+      "fire_route_statement": "Occupants HAVE access to the fire route (desk/door data PASS BR18)."
+    },
+    {
+      "space_id": "1217102",
+      "title": "Office:1217102",
+      "n_desks": 6,
+      "n_doors_reported": 1,
+      "total_door_width_cm_reported": 88.8,
+      "desk_to_door_ratio_cm": 14.8,
+      "area_m2": 35.3,
+      "height_m": 2.8,
+      "floor": "Level 2",
+      "verdict": "PASS",
+      "reasons": [
+        "Reported number of doors: 1",
+        "Total door width 88.8 cm >= required 6.0 cm (BR18)"
+      ],
+      "fire_route_statement": "Occupants HAVE access to the fire route (desk/door data PASS BR18)."
+    },
+    {
+      "space_id": "1217105",
+      "title": "Office:1217105",
+      "n_desks": 6,
+      "n_doors_reported": 1,
+      "total_door_width_cm_reported": 88.8,
+      "desk_to_door_ratio_cm": 14.8,
+      "area_m2": 35.3,
+      "height_m": 2.8,
+      "floor": "Level 2",
+      "verdict": "PASS",
+      "reasons": [
+        "Reported number of doors: 1",
+        "Total door width 88.8 cm >= required 6.0 cm (BR18)"
+      ],
+      "fire_route_statement": "Occupants HAVE access to the fire route (desk/door data PASS BR18)."
+    },
+    {
+      "space_id": "1217108",
+      "title": "Office:1217108",
+      "n_desks": 4,
+      "n_doors_reported": 1,
+      "total_door_width_cm_reported": 88.8,
+      "desk_to_door_ratio_cm": 22.2,
+      "area_m2": 26.94,
+      "height_m": 2.8,
+      "floor": "Level 2",
+      "verdict": "PASS",
+      "reasons": [
+        "Reported number of doors: 1",
+        "Total door width 88.8 cm >= required 4.0 cm (BR18)"
+      ],
+      "fire_route_statement": "Occupants HAVE access to the fire route (desk/door data PASS BR18)."
+    },
+    {
+      "space_id": "1217111",
+      "title": "Office:1217111",
+      "n_desks": 4,
+      "n_doors_reported": 1,
+      "total_door_width_cm_reported": 88.8,
+      "desk_to_door_ratio_cm": 22.2,
+      "area_m2": 26.94,
+      "height_m": 2.8,
+      "floor": "Level 2",
+      "verdict": "PASS",
+      "reasons": [
+        "Reported number of doors: 1",
+        "Total door width 88.8 cm >= required 4.0 cm (BR18)"
+      ],
+      "fire_route_statement": "Occupants HAVE access to the fire route (desk/door data PASS BR18)."
+    },
+    {
+      "space_id": "1217114",
+      "title": "Office:1217114",
+      "n_desks": 4,
+      "n_doors_reported": 1,
+      "total_door_width_cm_reported": 88.8,
+      "desk_to_door_ratio_cm": 22.2,
+      "area_m2": 26.94,
+      "height_m": 2.8,
+      "floor": "Level 2",
+      "verdict": "PASS",
+      "reasons": [
+        "Reported number of doors: 1",
+        "Total door width 88.8 cm >= required 4.0 cm (BR18)"
+      ],
+      "fire_route_statement": "Occupants HAVE access to the fire route (desk/door data PASS BR18)."
+    },
+    {
+      "space_id": "1217117",
+      "title": "Office:1217117",
+      "n_desks": 1,
+      "n_doors_reported": 1,
+      "total_door_width_cm_reported": 88.8,
+      "desk_to_door_ratio_cm": 88.8,
+      "area_m2": 13.12,
+      "height_m": 2.8,
+      "floor": "Level 2",
+      "verdict": "PASS",
+      "reasons": [
+        "Reported number of doors: 1",
+        "Total door width 88.8 cm >= required 1.0 cm (BR18)"
+      ],
+      "fire_route_statement": "Occupants HAVE access to the fire route (desk/door data PASS BR18)."
+    },
+    {
+      "space_id": "1217120",
+      "title": "Office:1217120",
+      "n_desks": 1,
+      "n_doors_reported": 1,
+      "total_door_width_cm_reported": 88.8,
+      "desk_to_door_ratio_cm": 88.8,
+      "area_m2": 13.12,
+      "height_m": 2.8,
+      "floor": "Level 2",
+      "verdict": "PASS",
+      "reasons": [
+        "Reported number of doors: 1",
+        "Total door width 88.8 cm >= required 1.0 cm (BR18)"
+      ],
+      "fire_route_statement": "Occupants HAVE access to the fire route (desk/door data PASS BR18)."
+    },
+    {
+      "space_id": "1217123",
+      "title": "Office:1217123",
+      "n_desks": 4,
+      "n_doors_reported": 1,
+      "total_door_width_cm_reported": 88.8,
+      "desk_to_door_ratio_cm": 22.2,
+      "area_m2": 26.94,
+      "height_m": 2.8,
+      "floor": "Level 2",
+      "verdict": "PASS",
+      "reasons": [
+        "Reported number of doors: 1",
+        "Total door width 88.8 cm >= required 4.0 cm (BR18)"
+      ],
+      "fire_route_statement": "Occupants HAVE access to the fire route (desk/door data PASS BR18)."
+    },
+    {
+      "space_id": "1217129",
+      "title": "Office:1217129",
+      "n_desks": 4,
+      "n_doors_reported": 1,
+      "total_door_width_cm_reported": 88.8,
+      "desk_to_door_ratio_cm": 22.2,
+      "area_m2": 26.94,
+      "height_m": 2.8,
+      "floor": "Level 2",
+      "verdict": "PASS",
+      "reasons": [
+        "Reported number of doors: 1",
+        "Total door width 88.8 cm >= required 4.0 cm (BR18)"
+      ],
+      "fire_route_statement": "Occupants HAVE access to the fire route (desk/door data PASS BR18)."
+    },
+    {
+      "space_id": "1222020",
+      "title": "Office:1222020",
+      "n_desks": 24,
+      "n_doors_reported": 0,
+      "total_door_width_cm_reported": 0.0,
+      "desk_to_door_ratio_cm": 0.0,
+      "area_m2": 102.08,
+      "height_m": 2.8,
+      "floor": "Level 4",
+      "verdict": "FAIL",
+      "reasons": [
+        "Total door width 0.0 cm < required 24.0 cm (BR18)"
+      ],
+      "fire_route_statement": "Occupants DO NOT have the necessary access to the fire route (desk/door data fails BR18)."
+    },
+    {
+      "space_id": "1222336",
+      "title": "Office:1222336",
+      "n_desks": 2,
+      "n_doors_reported": 1,
+      "total_door_width_cm_reported": 88.8,
+      "desk_to_door_ratio_cm": 44.4,
+      "area_m2": 17.2,
+      "height_m": 2.8,
+      "floor": "Level 3",
+      "verdict": "PASS",
+      "reasons": [
+        "Reported number of doors: 1",
+        "Total door width 88.8 cm >= required 2.0 cm (BR18)"
+      ],
+      "fire_route_statement": "Occupants HAVE access to the fire route (desk/door data PASS BR18)."
+    },
+    {
+      "space_id": "1228977",
+      "title": "Office:1228977",
+      "n_desks": 2,
+      "n_doors_reported": 1,
+      "total_door_width_cm_reported": 88.8,
+      "desk_to_door_ratio_cm": 44.4,
+      "area_m2": 17.2,
+      "height_m": 2.8,
+      "floor": "Level 1",
+      "verdict": "PASS",
+      "reasons": [
+        "Reported number of doors: 1",
+        "Total door width 88.8 cm >= required 2.0 cm (BR18)"
+      ],
+      "fire_route_statement": "Occupants HAVE access to the fire route (desk/door data PASS BR18)."
+    },
+    {
+      "space_id": "1228980",
+      "title": "Office:1228980",
+      "n_desks": 6,
+      "n_doors_reported": 1,
+      "total_door_width_cm_reported": 88.8,
+      "desk_to_door_ratio_cm": 14.8,
+      "area_m2": 35.3,
+      "height_m": 2.8,
+      "floor": "Level 1",
+      "verdict": "PASS",
+      "reasons": [
+        "Reported number of doors: 1",
+        "Total door width 88.8 cm >= required 6.0 cm (BR18)"
+      ],
+      "fire_route_statement": "Occupants HAVE access to the fire route (desk/door data PASS BR18)."
+    },
+    {
+      "space_id": "1228983",
+      "title": "Office:1228983",
+      "n_desks": 6,
+      "n_doors_reported": 1,
+      "total_door_width_cm_reported": 88.8,
+      "desk_to_door_ratio_cm": 14.8,
+      "area_m2": 35.3,
+      "height_m": 2.8,
+      "floor": "Level 1",
+      "verdict": "PASS",
+      "reasons": [
+        "Reported number of doors: 1",
+        "Total door width 88.8 cm >= required 6.0 cm (BR18)"
+      ],
+      "fire_route_statement": "Occupants HAVE access to the fire route (desk/door data PASS BR18)."
+    },
+    {
+      "space_id": "1228989",
+      "title": "Office:1228989",
+      "n_desks": 2,
+      "n_doors_reported": 1,
+      "total_door_width_cm_reported": 88.8,
+      "desk_to_door_ratio_cm": 44.4,
+      "area_m2": 17.2,
+      "height_m": 2.8,
+      "floor": "Level 1",
+      "verdict": "PASS",
+      "reasons": [
+        "Reported number of doors: 1",
+        "Total door width 88.8 cm >= required 2.0 cm (BR18)"
+      ],
+      "fire_route_statement": "Occupants HAVE access to the fire route (desk/door data PASS BR18)."
+    },
+    {
+      "space_id": "1229004",
+      "title": "Office:1229004",
+      "n_desks": 4,
+      "n_doors_reported": 1,
+      "total_door_width_cm_reported": 88.8,
+      "desk_to_door_ratio_cm": 22.2,
+      "area_m2": 26.94,
+      "height_m": 2.8,
+      "floor": "Level 1",
+      "verdict": "PASS",
+      "reasons": [
+        "Reported number of doors: 1",
+        "Total door width 88.8 cm >= required 4.0 cm (BR18)"
+      ],
+      "fire_route_statement": "Occupants HAVE access to the fire route (desk/door data PASS BR18)."
+    },
+    {
+      "space_id": "1229007",
+      "title": "Office:1229007",
+      "n_desks": 4,
+      "n_doors_reported": 1,
+      "total_door_width_cm_reported": 88.8,
+      "desk_to_door_ratio_cm": 22.2,
+      "area_m2": 26.94,
+      "height_m": 2.8,
+      "floor": "Level 1",
+      "verdict": "PASS",
+      "reasons": [
+        "Reported number of doors: 1",
+        "Total door width 88.8 cm >= required 4.0 cm (BR18)"
+      ],
+      "fire_route_statement": "Occupants HAVE access to the fire route (desk/door data PASS BR18)."
+    },
+    {
+      "space_id": "1229019",
+      "title": "Office:1229019",
+      "n_desks": 4,
+      "n_doors_reported": 1,
+      "total_door_width_cm_reported": 88.8,
+      "desk_to_door_ratio_cm": 22.2,
+      "area_m2": 26.94,
+      "height_m": 2.8,
+      "floor": "Level 1",
+      "verdict": "PASS",
+      "reasons": [
+        "Reported number of doors: 1",
+        "Total door width 88.8 cm >= required 4.0 cm (BR18)"
+      ],
+      "fire_route_statement": "Occupants HAVE access to the fire route (desk/door data PASS BR18)."
+    },
+    {
+      "space_id": "1229022",
+      "title": "Office:1229022",
+      "n_desks": 4,
+      "n_doors_reported": 1,
+      "total_door_width_cm_reported": 88.8,
+      "desk_to_door_ratio_cm": 22.2,
+      "area_m2": 26.94,
+      "height_m": 2.8,
+      "floor": "Level 1",
+      "verdict": "PASS",
+      "reasons": [
+        "Reported number of doors: 1",
+        "Total door width 88.8 cm >= required 4.0 cm (BR18)"
+      ],
+      "fire_route_statement": "Occupants HAVE access to the fire route (desk/door data PASS BR18)."
+    },
+    {
+      "space_id": "1229025",
+      "title": "Office:1229025",
+      "n_desks": 4,
+      "n_doors_reported": 1,
+      "total_door_width_cm_reported": 88.8,
+      "desk_to_door_ratio_cm": 22.2,
+      "area_m2": 26.94,
+      "height_m": 2.8,
+      "floor": "Level 1",
+      "verdict": "PASS",
+      "reasons": [
+        "Reported number of doors: 1",
+        "Total door width 88.8 cm >= required 4.0 cm (BR18)"
+      ],
+      "fire_route_statement": "Occupants HAVE access to the fire route (desk/door data PASS BR18)."
+    },
+    {
+      "space_id": "1230460",
+      "title": "Stair:1230460",
+      "n_desks": 25,
+      "n_doors_reported": 2,
+      "total_door_width_cm_reported": 297.3,
+      "desk_to_door_ratio_cm": 11.89,
+      "area_m2": 200.18,
+      "height_m": 2.8,
+      "floor": "Level 4",
+      "verdict": "PASS",
+      "reasons": [
+        "Reported number of doors: 2",
+        "Total door width 297.3 cm >= required 25.0 cm (BR18)"
+      ],
+      "fire_route_statement": "Occupants HAVE access to the fire route (desk/door data PASS BR18)."
+    },
+    {
+      "space_id": "1580619",
+      "title": "Student space:1580619",
+      "n_desks": 4,
+      "n_doors_reported": 0,
+      "total_door_width_cm_reported": 0.0,
+      "desk_to_door_ratio_cm": 0.0,
+      "area_m2": 112.64,
+      "height_m": 2.8,
+      "floor": "Level 1",
+      "verdict": "FAIL",
+      "reasons": [
+        "Total door width 0.0 cm < required 4.0 cm (BR18)"
+      ],
+      "fire_route_statement": "Occupants DO NOT have the necessary access to the fire route (desk/door data fails BR18)."
+    },
+    {
+      "space_id": "1582587",
+      "title": "Office:1582587",
+      "n_desks": 12,
+      "n_doors_reported": 0,
+      "total_door_width_cm_reported": 0.0,
+      "desk_to_door_ratio_cm": 0.0,
+      "area_m2": 47.79,
+      "height_m": 2.8,
+      "floor": "Level 4",
+      "verdict": "FAIL",
+      "reasons": [
+        "Total door width 0.0 cm < required 12.0 cm (BR18)"
+      ],
+      "fire_route_statement": "Occupants DO NOT have the necessary access to the fire route (desk/door data fails BR18)."
+    },
+    {
+      "space_id": "1582624",
+      "title": "Office:1582624",
+      "n_desks": 25,
+      "n_doors_reported": 0,
+      "total_door_width_cm_reported": 0.0,
+      "desk_to_door_ratio_cm": 0.0,
+      "area_m2": 91.85,
+      "height_m": 2.8,
+      "floor": "Level 3",
+      "verdict": "FAIL",
+      "reasons": [
+        "Total door width 0.0 cm < required 25.0 cm (BR18)"
+      ],
+      "fire_route_statement": "Occupants DO NOT have the necessary access to the fire route (desk/door data fails BR18)."
+    },
+    {
+      "space_id": "1582627",
+      "title": "Office:1582627",
+      "n_desks": 28,
+      "n_doors_reported": 0,
+      "total_door_width_cm_reported": 0.0,
+      "desk_to_door_ratio_cm": 0.0,
+      "area_m2": 99.14,
+      "height_m": 2.8,
+      "floor": "Level 3",
+      "verdict": "FAIL",
+      "reasons": [
+        "Total door width 0.0 cm < required 28.0 cm (BR18)"
+      ],
+      "fire_route_statement": "Occupants DO NOT have the necessary access to the fire route (desk/door data fails BR18)."
+    },
+    {
+      "space_id": "2201265",
+      "title": "Office:2201265",
+      "n_desks": 23,
+      "n_doors_reported": 0,
+      "total_door_width_cm_reported": 0.0,
+      "desk_to_door_ratio_cm": 0.0,
+      "area_m2": 107.53,
+      "height_m": 2.8,
+      "floor": "Level 3",
+      "verdict": "FAIL",
+      "reasons": [
+        "Total door width 0.0 cm < required 23.0 cm (BR18)"
+      ],
+      "fire_route_statement": "Occupants DO NOT have the necessary access to the fire route (desk/door data fails BR18)."
+    },
+    {
+      "space_id": "2201268",
+      "title": "Office:2201268",
+      "n_desks": 28,
+      "n_doors_reported": 0,
+      "total_door_width_cm_reported": 0.0,
+      "desk_to_door_ratio_cm": 0.0,
+      "area_m2": 105.71,
+      "height_m": 2.8,
+      "floor": "Level 3",
+      "verdict": "FAIL",
+      "reasons": [
+        "Total door width 0.0 cm < required 28.0 cm (BR18)"
+      ],
+      "fire_route_statement": "Occupants DO NOT have the necessary access to the fire route (desk/door data fails BR18)."
+    },
+    {
+      "space_id": "2234409",
+      "title": "Office:2234409",
+      "n_desks": 13,
+      "n_doors_reported": 0,
+      "total_door_width_cm_reported": 0.0,
+      "desk_to_door_ratio_cm": 0.0,
+      "area_m2": 40.57,
+      "height_m": 2.8,
+      "floor": "Level 4",
+      "verdict": "FAIL",
+      "reasons": [
+        "Total door width 0.0 cm < required 13.0 cm (BR18)"
+      ],
+      "fire_route_statement": "Occupants DO NOT have the necessary access to the fire route (desk/door data fails BR18)."
+    },
+    {
+      "space_id": "2234413",
+      "title": "Office:2234413",
+      "n_desks": 13,
+      "n_doors_reported": 0,
+      "total_door_width_cm_reported": 0.0,
+      "desk_to_door_ratio_cm": 0.0,
+      "area_m2": 35.44,
+      "height_m": 2.8,
+      "floor": "Level 4",
+      "verdict": "FAIL",
+      "reasons": [
+        "Total door width 0.0 cm < required 13.0 cm (BR18)"
+      ],
+      "fire_route_statement": "Occupants DO NOT have the necessary access to the fire route (desk/door data fails BR18)."
+    },
+    {
+      "space_id": "2238662",
+      "title": "Student space:2238662",
+      "n_desks": 4,
+      "n_doors_reported": 0,
+      "total_door_width_cm_reported": 0.0,
+      "desk_to_door_ratio_cm": 0.0,
+      "area_m2": 112.26,
+      "height_m": 2.8,
+      "floor": "Level 1",
+      "verdict": "FAIL",
+      "reasons": [
+        "Total door width 0.0 cm < required 4.0 cm (BR18)"
+      ],
+      "fire_route_statement": "Occupants DO NOT have the necessary access to the fire route (desk/door data fails BR18)."
+    },
+    {
+      "space_id": "Atrium:1158486",
+      "title": "Atrium:1158486",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "Atrium:1218068",
+      "title": "Atrium:1218068",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "Atrium:1219989",
+      "title": "Atrium:1219989",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "Atrium:1319636",
+      "title": "Atrium:1319636",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "Auditorium:1133158",
+      "title": "Auditorium:1133158",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "Elevator:1133167",
+      "title": "Elevator:1133167",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "Elevator:1147518",
+      "title": "Elevator:1147518",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "Elevator:1317401",
+      "title": "Elevator:1317401",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "Elevator:1319254",
+      "title": "Elevator:1319254",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "Elevator:1320064",
+      "title": "Elevator:1320064",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "Elevator:1320451",
+      "title": "Elevator:1320451",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "Hallway:1133161",
+      "title": "Hallway:1133161",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "Hallway:1133176",
+      "title": "Hallway:1133176",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "Hallway:1133209",
+      "title": "Hallway:1133209",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "Hallway:1133213",
+      "title": "Hallway:1133213",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "Hallway:1157887",
+      "title": "Hallway:1157887",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "Hallway:1158176",
+      "title": "Hallway:1158176",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "Hallway:1158179",
+      "title": "Hallway:1158179",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "Hallway:1220218",
+      "title": "Hallway:1220218",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "Hallway:1317689",
+      "title": "Hallway:1317689",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "Hallway:1319242",
+      "title": "Hallway:1319242",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "Hallway:1320061",
+      "title": "Hallway:1320061",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "Hallway:1320448",
+      "title": "Hallway:1320448",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "Hallway:1573335",
+      "title": "Hallway:1573335",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "Hallway:1574774",
+      "title": "Hallway:1574774",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "Hallway:1575031",
+      "title": "Hallway:1575031",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "Hallway:1576306",
+      "title": "Hallway:1576306",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "Hallway:1582548",
+      "title": "Hallway:1582548",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "Hallway:2234384",
+      "title": "Hallway:2234384",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "Kitchen:1158185",
+      "title": "Kitchen:1158185",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "Kitchen:1216957",
+      "title": "Kitchen:1216957",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "Kitchen:1220242",
+      "title": "Kitchen:1220242",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "Kitchen:1228974",
+      "title": "Kitchen:1228974",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "Office:1582577",
+      "title": "Office:1582577",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "Stair:1158188",
+      "title": "Stair:1158188",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "Stair:1217158",
+      "title": "Stair:1217158",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "Stair:1218075",
+      "title": "Stair:1218075",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "Stair:1219983",
+      "title": "Stair:1219983",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "Tech:1133179",
+      "title": "Tech:1133179",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "Tech:1216982",
+      "title": "Tech:1216982",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "Tech:1217093",
+      "title": "Tech:1217093",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "Tech:1222017",
+      "title": "Tech:1222017",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "Tech:1222333",
+      "title": "Tech:1222333",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "Tech:1222626",
+      "title": "Tech:1222626",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "Tech:1222783",
+      "title": "Tech:1222783",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "Tech:1228986",
+      "title": "Tech:1228986",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "Toilets:1133170",
+      "title": "Toilets:1133170",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "Toilets:1158182",
+      "title": "Toilets:1158182",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "Toilets:1217165",
+      "title": "Toilets:1217165",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "Toilets:1220239",
+      "title": "Toilets:1220239",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "Toilets:1228971",
+      "title": "Toilets:1228971",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "area:1580304",
+      "title": "area:1580304",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "area:1580343",
+      "title": "area:1580343",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "area:1580763",
+      "title": "area:1580763",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "area:1582611",
+      "title": "area:1582611",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "area:2234411",
+      "title": "area:2234411",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "desk:1580301",
+      "title": "desk:1580301",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "elevator:1150421",
+      "title": "elevator:1150421",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "elevator:1151860",
+      "title": "elevator:1151860",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "elevator:1217178",
+      "title": "elevator:1217178",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "elevator:1220221",
+      "title": "elevator:1220221",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "elevator:1228965",
+      "title": "elevator:1228965",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "kitchen:1133173",
+      "title": "kitchen:1133173",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "library:1580334",
+      "title": "library:1580334",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "room:1133182",
+      "title": "room:1133182",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "room:1133188",
+      "title": "room:1133188",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "room:1133191",
+      "title": "room:1133191",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "room:1133194",
+      "title": "room:1133194",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "room:1157884",
+      "title": "room:1157884",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "room:1158161",
+      "title": "room:1158161",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "room:1158164",
+      "title": "room:1158164",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "room:1217036",
+      "title": "room:1217036",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "room:1217039",
+      "title": "room:1217039",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "room:1217042",
+      "title": "room:1217042",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "room:1217090",
+      "title": "room:1217090",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "room:1217099",
+      "title": "room:1217099",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "room:1220224",
+      "title": "room:1220224",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "room:1220227",
+      "title": "room:1220227",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "room:1220245",
+      "title": "room:1220245",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "room:1220248",
+      "title": "room:1220248",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "room:1220251",
+      "title": "room:1220251",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "room:1222014",
+      "title": "room:1222014",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "room:1228962",
+      "title": "room:1228962",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "room:1228992",
+      "title": "room:1228992",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "room:1229001",
+      "title": "room:1229001",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "room:1229013",
+      "title": "room:1229013",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    },
+    {
+      "space_id": "room:1229016",
+      "title": "room:1229016",
+      "n_desks": 0,
+      "n_doors_reported": null,
+      "total_door_width_cm_reported": null,
+      "desk_to_door_ratio_cm": null,
+      "area_m2": null,
+      "height_m": null,
+      "floor": null,
+      "verdict": "NOT_APPLICABLE",
+      "reasons": [
+        "No desks in this space"
+      ],
+      "fire_route_statement": "Not applicable (no desks)"
+    }
+  ],
+  "desks_outside": [
+    {
+      "desk": "1212429",
+      "globalid": "2dRl5W5bT2a9_2uqp0ea57"
+    },
+    {
+      "desk": "1212430",
+      "globalid": "2dRl5W5bT2a9_2uqp0ea56"
+    },
+    {
+      "desk": "1212431",
+      "globalid": "2dRl5W5bT2a9_2uqp0ea51"
+    },
+    {
+      "desk": "1212432",
+      "globalid": "2dRl5W5bT2a9_2uqp0ea50"
+    },
+    {
+      "desk": "1212433",
+      "globalid": "2dRl5W5bT2a9_2uqp0ea53"
+    },
+    {
+      "desk": "1212434",
+      "globalid": "2dRl5W5bT2a9_2uqp0ea52"
+    },
+    {
+      "desk": "1212435",
+      "globalid": "2dRl5W5bT2a9_2uqp0ea5D"
+    },
+    {
+      "desk": "1212436",
+      "globalid": "2dRl5W5bT2a9_2uqp0ea5C"
+    },
+    {
+      "desk": "1212437",
+      "globalid": "2dRl5W5bT2a9_2uqp0ea5F"
+    },
+    {
+      "desk": "1212438",
+      "globalid": "2dRl5W5bT2a9_2uqp0ea5E"
+    },
+    {
+      "desk": "1212442",
+      "globalid": "2dRl5W5bT2a9_2uqp0ehxz"
+    },
+    {
+      "desk": "1212443",
+      "globalid": "2dRl5W5bT2a9_2uqp0ehxy"
+    },
+    {
+      "desk": "1212444",
+      "globalid": "2dRl5W5bT2a9_2uqp0ehx$"
+    },
+    {
+      "desk": "1212445",
+      "globalid": "2dRl5W5bT2a9_2uqp0ehx_"
+    },
+    {
+      "desk": "1212446",
+      "globalid": "2dRl5W5bT2a9_2uqp0ehxv"
+    },
+    {
+      "desk": "1212447",
+      "globalid": "2dRl5W5bT2a9_2uqp0ehxu"
+    },
+    {
+      "desk": "1212448",
+      "globalid": "2dRl5W5bT2a9_2uqp0ehxx"
+    },
+    {
+      "desk": "1212449",
+      "globalid": "2dRl5W5bT2a9_2uqp0ehxw"
+    },
+    {
+      "desk": "1212450",
+      "globalid": "2dRl5W5bT2a9_2uqp0ehxb"
+    },
+    {
+      "desk": "1212451",
+      "globalid": "2dRl5W5bT2a9_2uqp0ehxa"
+    },
+    {
+      "desk": "1212505",
+      "globalid": "2dRl5W5bT2a9_2uqp0ehwi"
+    },
+    {
+      "desk": "1212506",
+      "globalid": "2dRl5W5bT2a9_2uqp0ehwl"
+    },
+    {
+      "desk": "1212507",
+      "globalid": "2dRl5W5bT2a9_2uqp0ehwk"
+    },
+    {
+      "desk": "1212508",
+      "globalid": "2dRl5W5bT2a9_2uqp0ehwf"
+    },
+    {
+      "desk": "1212509",
+      "globalid": "2dRl5W5bT2a9_2uqp0ehwe"
+    },
+    {
+      "desk": "1212599",
+      "globalid": "2dRl5W5bT2a9_2uqp0ehv2"
+    },
+    {
+      "desk": "1212600",
+      "globalid": "2dRl5W5bT2a9_2uqp0ehvD"
+    },
+    {
+      "desk": "1212601",
+      "globalid": "2dRl5W5bT2a9_2uqp0ehvC"
+    },
+    {
+      "desk": "1212602",
+      "globalid": "2dRl5W5bT2a9_2uqp0ehvF"
+    },
+    {
+      "desk": "1212603",
+      "globalid": "2dRl5W5bT2a9_2uqp0ehvE"
+    },
+    {
+      "desk": "1212604",
+      "globalid": "2dRl5W5bT2a9_2uqp0ehv9"
+    },
+    {
+      "desk": "1212605",
+      "globalid": "2dRl5W5bT2a9_2uqp0ehv8"
+    },
+    {
+      "desk": "1212606",
+      "globalid": "2dRl5W5bT2a9_2uqp0ehvB"
+    },
+    {
+      "desk": "1212607",
+      "globalid": "2dRl5W5bT2a9_2uqp0ehvA"
+    },
+    {
+      "desk": "1212608",
+      "globalid": "2dRl5W5bT2a9_2uqp0ehur"
+    },
+    {
+      "desk": "1212737",
+      "globalid": "2dRl5W5bT2a9_2uqp0eh_q"
+    },
+    {
+      "desk": "1212738",
+      "globalid": "2dRl5W5bT2a9_2uqp0eh_t"
+    },
+    {
+      "desk": "1212739",
+      "globalid": "2dRl5W5bT2a9_2uqp0eh_s"
+    },
+    {
+      "desk": "1212740",
+      "globalid": "2dRl5W5bT2a9_2uqp0eh_n"
+    },
+    {
+      "desk": "1212741",
+      "globalid": "2dRl5W5bT2a9_2uqp0eh_m"
+    },
+    {
+      "desk": "1212805",
+      "globalid": "2dRl5W5bT2a9_2uqp0ehzm"
+    },
+    {
+      "desk": "1212806",
+      "globalid": "2dRl5W5bT2a9_2uqp0ehzp"
+    },
+    {
+      "desk": "1212807",
+      "globalid": "2dRl5W5bT2a9_2uqp0ehzo"
+    },
+    {
+      "desk": "1212808",
+      "globalid": "2dRl5W5bT2a9_2uqp0ehzz"
+    },
+    {
+      "desk": "1212809",
+      "globalid": "2dRl5W5bT2a9_2uqp0ehzy"
+    },
+    {
+      "desk": "1212810",
+      "globalid": "2dRl5W5bT2a9_2uqp0ehz$"
+    },
+    {
+      "desk": "1212811",
+      "globalid": "2dRl5W5bT2a9_2uqp0ehz_"
+    },
+    {
+      "desk": "1212812",
+      "globalid": "2dRl5W5bT2a9_2uqp0ehzv"
+    },
+    {
+      "desk": "1212873",
+      "globalid": "2dRl5W5bT2a9_2uqp0ehyy"
+    },
+    {
+      "desk": "1212874",
+      "globalid": "2dRl5W5bT2a9_2uqp0ehy$"
+    },
+    {
+      "desk": "1212875",
+      "globalid": "2dRl5W5bT2a9_2uqp0ehy_"
+    },
+    {
+      "desk": "1212876",
+      "globalid": "2dRl5W5bT2a9_2uqp0ehyv"
+    },
+    {
+      "desk": "1212877",
+      "globalid": "2dRl5W5bT2a9_2uqp0ehyu"
+    },
+    {
+      "desk": "1212878",
+      "globalid": "2dRl5W5bT2a9_2uqp0ehyx"
+    },
+    {
+      "desk": "1212879",
+      "globalid": "2dRl5W5bT2a9_2uqp0ehyw"
+    },
+    {
+      "desk": "1212880",
+      "globalid": "2dRl5W5bT2a9_2uqp0ehyb"
+    },
+    {
+      "desk": "1212939",
+      "globalid": "2dRl5W5bT2a9_2uqp0ehp_"
+    },
+    {
+      "desk": "1212940",
+      "globalid": "2dRl5W5bT2a9_2uqp0ehpv"
+    },
+    {
+      "desk": "1212941",
+      "globalid": "2dRl5W5bT2a9_2uqp0ehpu"
+    },
+    {
+      "desk": "1212942",
+      "globalid": "2dRl5W5bT2a9_2uqp0ehpx"
+    },
+    {
+      "desk": "1212943",
+      "globalid": "2dRl5W5bT2a9_2uqp0ehpw"
+    },
+    {
+      "desk": "1212944",
+      "globalid": "2dRl5W5bT2a9_2uqp0ehpb"
+    },
+    {
+      "desk": "1212945",
+      "globalid": "2dRl5W5bT2a9_2uqp0ehpa"
+    },
+    {
+      "desk": "1212946",
+      "globalid": "2dRl5W5bT2a9_2uqp0ehpd"
+    },
+    {
+      "desk": "1215133",
+      "globalid": "2dRl5W5bT2a9_2uqp0ehHe"
+    },
+    {
+      "desk": "1215134",
+      "globalid": "2dRl5W5bT2a9_2uqp0ehHh"
+    },
+    {
+      "desk": "1215135",
+      "globalid": "2dRl5W5bT2a9_2uqp0ehHg"
+    },
+    {
+      "desk": "1215136",
+      "globalid": "2dRl5W5bT2a9_2uqp0ehHL"
+    },
+    {
+      "desk": "1215137",
+      "globalid": "2dRl5W5bT2a9_2uqp0ehHK"
+    },
+    {
+      "desk": "1215138",
+      "globalid": "2dRl5W5bT2a9_2uqp0ehHN"
+    },
+    {
+      "desk": "1481512",
+      "globalid": "3$f6LDA5v8iPfn0U1iMy7T"
+    },
+    {
+      "desk": "1481711",
+      "globalid": "3$f6LDA5v8iPfn0U1iMy1_"
+    },
+    {
+      "desk": "1481712",
+      "globalid": "3$f6LDA5v8iPfn0U1iMy1X"
+    },
+    {
+      "desk": "1481713",
+      "globalid": "3$f6LDA5v8iPfn0U1iMy1W"
+    },
+    {
+      "desk": "1481714",
+      "globalid": "3$f6LDA5v8iPfn0U1iMy1Z"
+    },
+    {
+      "desk": "1481715",
+      "globalid": "3$f6LDA5v8iPfn0U1iMy1Y"
+    },
+    {
+      "desk": "1481716",
+      "globalid": "3$f6LDA5v8iPfn0U1iMy1b"
+    },
+    {
+      "desk": "1482312",
+      "globalid": "3$f6LDA5v8iPfn0U1iMyNP"
+    },
+    {
+      "desk": "1482313",
+      "globalid": "3$f6LDA5v8iPfn0U1iMyNO"
+    },
+    {
+      "desk": "1482314",
+      "globalid": "3$f6LDA5v8iPfn0U1iMyNR"
+    },
+    {
+      "desk": "1482315",
+      "globalid": "3$f6LDA5v8iPfn0U1iMyNQ"
+    },
+    {
+      "desk": "1482837",
+      "globalid": "3$f6LDA5v8iPfn0U1iM$l4"
+    },
+    {
+      "desk": "1482838",
+      "globalid": "3$f6LDA5v8iPfn0U1iM$l7"
+    },
+    {
+      "desk": "1482839",
+      "globalid": "3$f6LDA5v8iPfn0U1iM$l6"
+    },
+    {
+      "desk": "1482840",
+      "globalid": "3$f6LDA5v8iPfn0U1iM$l9"
+    },
+    {
+      "desk": "1482841",
+      "globalid": "3$f6LDA5v8iPfn0U1iM$l8"
+    },
+    {
+      "desk": "1482842",
+      "globalid": "3$f6LDA5v8iPfn0U1iM$lB"
+    },
+    {
+      "desk": "1483165",
+      "globalid": "3$f6LDA5v8iPfn0U1iM$eC"
+    },
+    {
+      "desk": "1581527",
+      "globalid": "15_kkT3lf2ePzBHG_qJYY_"
+    },
+    {
+      "desk": "2245375",
+      "globalid": "2E9fNU8q1C1gA_wzcoXxQc"
+    },
+    {
+      "desk": "2245376",
+      "globalid": "2E9fNU8q1C1gA_wzcoXxQX"
+    },
+    {
+      "desk": "2245377",
+      "globalid": "2E9fNU8q1C1gA_wzcoXxQW"
+    },
+    {
+      "desk": "2245378",
+      "globalid": "2E9fNU8q1C1gA_wzcoXxQZ"
+    },
+    {
+      "desk": "2245379",
+      "globalid": "2E9fNU8q1C1gA_wzcoXxQY"
+    },
+    {
+      "desk": "2245380",
+      "globalid": "2E9fNU8q1C1gA_wzcoXxQj"
+    },
+    {
+      "desk": "2245381",
+      "globalid": "2E9fNU8q1C1gA_wzcoXxQi"
+    },
+    {
+      "desk": "2245382",
+      "globalid": "2E9fNU8q1C1gA_wzcoXxQl"
+    },
+    {
+      "desk": "2245383",
+      "globalid": "2E9fNU8q1C1gA_wzcoXxQk"
+    },
+    {
+      "desk": "2245384",
+      "globalid": "2E9fNU8q1C1gA_wzcoXxQf"
+    }
+  ]
+}
