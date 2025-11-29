@@ -55,7 +55,7 @@ Configuration
 ## Advanced Building Design
 
 ### Building Design Stage
-This tool is particularly useful in **Stage C** (Detailed Design) of the Advanced Building Design process, where the arrangement of spaces and furniture is finalized.
+This tool is particularly useful in **Stage C** of the Advanced Building Design process, where the arrangement of spaces and furniture is finalized. It could also be helpful in **Stage D**, where details and optimization are applied to the design process to ensure that desk locations comply with accessibility requirements.
 
 ### Subjects That Might Use It
 - Architects
