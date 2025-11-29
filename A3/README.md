@@ -123,4 +123,4 @@ ACCEPTANCE CRITERIA / LOIN (level of information need)
 
 REMARKS
 - Keep property names, classifications and units stable across exports or provide a mapping.  
-- This IDS is intended as a minimal contract to ensure the A3 script can run reliably and produce valid text/JSON reports and optional chart output.
+- This IDS is intended as a minimal contract to ensure the A3 script can run reliably and produce valid text/JSON report and optional chart output.
