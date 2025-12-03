@@ -1,10 +1,10 @@
-# A5 - REFLECTION
+# A5 - REFLECTION - GRP01
 
 ## My learning experience:
 
 - Identification of my own level at the beginning of this course and where I ended
 
-At the start of this course, I would classify myself as operating between a **modeler** and **analyst** level. I had prior experience from the OpenBIM course where I modeled a building, and I possessed some Python knowledge that enabled me to analyze data through scripts. Together with my group members, I initially took on the **manager** role. However, both group members dropped out after the second lesson, leaving me at a crossroads. I considered stepping down from the OpenBIM manager responsibility but ultimately decided to continue. I saw this as an opportunity for personal development—to simultaneously analyze data while managing coordination between other groups, gathering their knowledge, and elevating scripts based on their collective analyses. Through this journey, I evolved from a modeler/analyst into a relatively confident **OpenBIM manager**, capable of handling both technical analysis and project coordination responsibilities.
+At the start of this course, I would classify myself as operating between a **OpenBIM Modeler** and **OpenBIM Analyst** level. I had prior experience from the OpenBIM course where I modeled a building, and I possessed some Python knowledge that enabled me to analyze data through scripts. Together with my group members, I initially took on the **OpenBIM Manager** role. However, both group members dropped out after the second lesson, leaving me at a crossroads. I considered stepping down from the OpenBIM manager responsibility but ultimately decided to continue. I saw this as an opportunity for personal development—to simultaneously analyze data while managing coordination between other groups, gathering their knowledge, and elevating scripts based on their collective analyses. Through this journey, I evolved from a modeler/analyst into a relatively confident **OpenBIM Manager**, capable of handling both technical analysis and project coordination responsibilities.
 
 - What else do I still need to learn?
 
